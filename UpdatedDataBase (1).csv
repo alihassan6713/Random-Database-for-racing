@@ -1,0 +1,771 @@
+Racer ID,FirstName,LastName,Location,CircuitName,TeamName,Sponsor,LapTime,Date,Position
+200301,Aaron,Schultz,Berlin,AVUS,"Hernandez, Jenkins and Parks",Jones Group,01:13.70,2013-01-01,1
+244811,Stacy,Potts,Berlin,AVUS,"Reeves, Parks and Little",Fernandez Inc,02:33.90,2013-01-01,2
+209823,Debra,Ponce,Berlin,AVUS,Miller-Colon,Perez-Coleman,03:52.31,2013-01-01,3
+282948,Kathleen,Garner,Berlin,AVUS,Mitchell and Sons,"Kelly, Maxwell and Wilson",03:56.84,2013-01-01,4
+289475,Veronica,Sawyer,Berlin,AVUS,Robles-Swanson,"Love, Wilson and Hall",04:31.81,2013-01-01,5
+266690,Kellie,Jones,Berlin,AVUS,Smith-Lewis,"Ross, Hardin and Navarro",06:05.17,2013-01-01,6
+246427,Xavier,Porter,Berlin,AVUS,"Austin, Oliver and Haley","Waller, Coleman and Mosley",06:14.25,2013-01-01,7
+226432,Jody,Brown,Berlin,AVUS,Alvarado-Davidson,Baird-Williams,06:41.62,2013-01-01,8
+258335,Cheyenne,Fuentes,Berlin,AVUS,Green-Ewing,Hayes-Sampson,06:59.12,2013-01-01,9
+293264,Susan,Santiago,Berlin,AVUS,Jacobson Inc,Flores and Sons,09:26.70,2013-01-01,10
+265953,Susan,Mitchell,Adelaide,Adelaide Street Circuit,Jones Ltd,Navarro PLC,01:09.65,2013-01-02,1
+276429,Jeffrey,Hensley,Adelaide,Adelaide Street Circuit,Walker PLC,Chang PLC,02:15.65,2013-01-02,2
+203436,Jeffrey,Griffith,Adelaide,Adelaide Street Circuit,Schultz Inc,"House, Smith and Wright",02:36.13,2013-01-02,3
+222700,Suzanne,Gomez,Adelaide,Adelaide Street Circuit,Rich-Henderson,Watson-Roberts,03:28.08,2013-01-02,4
+284896,Sarah,Anderson,Adelaide,Adelaide Street Circuit,Maldonado PLC,Russo and Sons,06:07.74,2013-01-02,5
+221689,Miranda,Allen,Adelaide,Adelaide Street Circuit,Hunt PLC,"Robinson, Townsend and Hopkins",07:22.51,2013-01-02,6
+218431,Melanie,Romero,Adelaide,Adelaide Street Circuit,Moore Group,"Quinn, Humphrey and Ford",07:55.25,2013-01-02,7
+261373,Tracey,Coffey,Adelaide,Adelaide Street Circuit,Edwards-Williams,Martinez and Sons,07:55.52,2013-01-02,8
+205258,Danielle,Harvey,Adelaide,Adelaide Street Circuit,Simon Ltd,Arias-Morales,08:11.68,2013-01-02,9
+269042,Jeffrey,Hernandez,Adelaide,Adelaide Street Circuit,Daugherty Ltd,"Caldwell, Stevenson and Joseph",09:15.35,2013-01-02,10
+231921,Amy,Green,Casablanca,Ain Diab,"Campbell, Pruitt and Short",Mcneil-Fox,03:47.59,2013-01-03,1
+277189,Gabrielle,Bryant,Casablanca,Ain Diab,"Williams, Castillo and Warren","Whitaker, Johnson and Williams",04:08.06,2013-01-03,2
+269678,Maria,Thomas,Casablanca,Ain Diab,Martinez Inc,Gentry Group,04:46.13,2013-01-03,3
+290982,Thomas,Crawford,Casablanca,Ain Diab,Kane-Knox,"Rubio, Charles and Watson",06:20.54,2013-01-03,4
+209540,Karen,Larson,Casablanca,Ain Diab,Anthony-Parker,House-Johnston,06:21.99,2013-01-03,5
+254240,Jennifer,Lewis,Casablanca,Ain Diab,"Cruz, Richmond and Edwards","Moss, James and Edwards",06:55.81,2013-01-03,6
+271180,Tracy,Bailey,Casablanca,Ain Diab,"White, Davis and Anderson",Cook-Turner,07:15.85,2013-01-03,7
+259040,Joyce,Jones,Casablanca,Ain Diab,Diaz and Sons,"Evans, Cross and Johnston",07:21.91,2013-01-03,8
+200854,Jennifer,Barnes,Casablanca,Ain Diab,Lam-Elliott,Martinez-Gonzales,07:40.20,2013-01-03,9
+257854,Jason,Carter,Casablanca,Ain Diab,Christian-Booth,"Nicholson, Chavez and Allen",09:26.10,2013-01-03,10
+292067,Jessica,Shaw,Liverpool,Aintree,"Patel, Erickson and Evans",Shaw and Sons,01:07.84,2013-01-04,1
+242642,Rodney,Parks,Liverpool,Aintree,Lopez Ltd,"Howe, Moore and Johnson",01:09.78,2013-01-04,2
+279309,Christopher,Hill,Liverpool,Aintree,"Robinson, Jones and Henderson",Porter and Sons,01:10.84,2013-01-04,3
+266203,Marcus,Wright,Liverpool,Aintree,Rivera-Carter,Bell-Madden,02:48.28,2013-01-04,4
+218711,Barbara,Knight,Liverpool,Aintree,Jones PLC,Perez Group,03:26.19,2013-01-04,5
+240158,Amber,Aguilar,Liverpool,Aintree,"Fernandez, Guerrero and Evans",English-Dominguez,05:16.07,2013-01-04,6
+228295,Kevin,Dominguez,Liverpool,Aintree,"Saunders, Ray and Cunningham","Patterson, Salas and Wright",05:52.27,2013-01-04,7
+287235,Caitlin,Bullock,Liverpool,Aintree,"Terry, Williams and Huff",Larson LLC,08:51.89,2013-01-04,8
+207357,Jacqueline,Whitehead,Liverpool,Aintree,"Johnson, Jimenez and Phillips",Graves Group,08:57.24,2013-01-04,9
+223664,Kristen,Clay,Liverpool,Aintree,Walsh Ltd,White LLC,09:41.11,2013-01-04,10
+294246,Sandra,Rivera,Melbourne,Albert Park Grand Prix Circuit,Moran-Cox,Fitzgerald-Brown,02:10.25,2013-01-05,1
+294663,Stephen,Stewart,Melbourne,Albert Park Grand Prix Circuit,"Evans, David and Hendrix",Valenzuela-Greene,03:57.53,2013-01-05,2
+233827,David,Lucas,Melbourne,Albert Park Grand Prix Circuit,"Robinson, Shields and Brown",Ramirez-White,04:12.28,2013-01-05,3
+225945,Joseph,Weber,Melbourne,Albert Park Grand Prix Circuit,Holland Group,Hill Inc,06:05.86,2013-01-05,4
+259275,Danny,Cox,Melbourne,Albert Park Grand Prix Circuit,"Byrd, Oliver and Martinez",Soto PLC,06:32.56,2013-01-05,5
+212688,Jacob,Jennings,Melbourne,Albert Park Grand Prix Circuit,Miller-Montgomery,Moore-Chandler,08:20.95,2013-01-05,6
+204014,Kenneth,Tucker,Melbourne,Albert Park Grand Prix Circuit,Lewis-Livingston,"Huang, Khan and Davis",08:42.08,2013-01-05,7
+216779,Julie,Gallegos,Melbourne,Albert Park Grand Prix Circuit,Welch-Thompson,"Contreras, Ellis and Gregory",08:45.54,2013-01-05,8
+246975,Laura,Le,Melbourne,Albert Park Grand Prix Circuit,"Brown, Howard and Smith",Castillo and Sons,08:49.74,2013-01-05,9
+215795,Danielle,Lynch,Melbourne,Albert Park Grand Prix Circuit,Contreras-Mckinney,Hamilton-Smith,09:11.89,2013-01-05,10
+261228,Allison,Brooks,Imola,Autodromo Enzo e Dino Ferrari,Butler and Sons,Adkins Group,01:47.90,2013-01-06,1
+253222,Michael,Spencer,Imola,Autodromo Enzo e Dino Ferrari,Weaver-Thompson,"Andrews, Romero and Sullivan",03:13.06,2013-01-06,2
+288891,Gene,Burgess,Imola,Autodromo Enzo e Dino Ferrari,"Craig, Wilson and Yang",Thomas Inc,03:24.75,2013-01-06,3
+299518,Vincent,Guerrero,Imola,Autodromo Enzo e Dino Ferrari,"Tanner, Hunt and Cameron","Weaver, Anderson and Reed",03:27.56,2013-01-06,4
+283104,Linda,Weeks,Imola,Autodromo Enzo e Dino Ferrari,"Moore, Hopkins and Le","Carpenter, Lynn and Howard",04:44.00,2013-01-06,5
+270091,Leah,Willis,Imola,Autodromo Enzo e Dino Ferrari,Werner-Carter,"Williams, Jackson and Campbell",05:29.12,2013-01-06,6
+272082,Karen,Robinson,Imola,Autodromo Enzo e Dino Ferrari,Alexander-Jordan,Weaver-Gibson,05:48.06,2013-01-06,7
+287508,Harry,Stein,Imola,Autodromo Enzo e Dino Ferrari,Wise-Dean,Butler-Aguirre,07:06.12,2013-01-06,8
+227350,Michael,Wise,Imola,Autodromo Enzo e Dino Ferrari,Morgan LLC,Thomas-Berg,07:38.29,2013-01-06,9
+226105,Lindsey,Morgan,Imola,Autodromo Enzo e Dino Ferrari,Giles Ltd,Davidson LLC,08:21.22,2013-01-06,10
+266105,Kevin,Williamson,Mugello,Autodromo Internazionale del Mugello,Peck-Anderson,Gallegos-Hayes,03:08.62,2013-01-07,1
+292093,Leonard,Christian,Mugello,Autodromo Internazionale del Mugello,Stevens PLC,Carlson-Jones,03:19.44,2013-01-07,2
+266234,Bonnie,Santos,Mugello,Autodromo Internazionale del Mugello,Taylor and Sons,"Schneider, Porter and Hanna",03:23.41,2013-01-07,3
+280356,Wanda,Hopkins,Mugello,Autodromo Internazionale del Mugello,Allen Inc,"Hensley, Lopez and Baker",03:33.24,2013-01-07,4
+273847,Courtney,Cole,Mugello,Autodromo Internazionale del Mugello,Reyes Group,"Edwards, Lane and Collins",03:35.88,2013-01-07,5
+263734,Melissa,Ramos,Mugello,Autodromo Internazionale del Mugello,"Sanders, Ayala and Johnson","Wright, Wise and Ramos",05:42.45,2013-01-07,6
+235547,Samuel,Roach,Mugello,Autodromo Internazionale del Mugello,Miller Inc,White-Knox,08:01.12,2013-01-07,7
+288223,Katie,Fox,Mugello,Autodromo Internazionale del Mugello,Sheppard-Mcdaniel,Berry-Rivera,08:06.99,2013-01-07,8
+226790,Jasmine,Lee,Mugello,Autodromo Internazionale del Mugello,"Walsh, Wu and Hart",Cruz Ltd,08:50.62,2013-01-07,9
+238360,Earl,Miles,Mugello,Autodromo Internazionale del Mugello,Lopez-Reid,Hernandez-Rogers,09:51.80,2013-01-07,10
+260921,Jenny,Roberts,Monza,Autodromo Nazionale di Monza,"Morgan, Barron and Cowan",Rogers Inc,01:41.10,2013-01-08,1
+286202,James,Buchanan,Monza,Autodromo Nazionale di Monza,"James, Taylor and Turner",Quinn-Smith,02:03.12,2013-01-08,2
+264820,James,Hicks,Monza,Autodromo Nazionale di Monza,"Matthews, Saunders and Anderson",Clark-Figueroa,02:21.22,2013-01-08,3
+242344,Kaitlyn,Acosta,Monza,Autodromo Nazionale di Monza,"Webb, Romero and Morse",Marsh-Dougherty,02:28.36,2013-01-08,4
+258871,Theresa,Jones,Monza,Autodromo Nazionale di Monza,Cole LLC,"Mcintosh, Melton and Wilkins",04:07.34,2013-01-08,5
+205801,Diana,Smith,Monza,Autodromo Nazionale di Monza,"Logan, Le and Jackson",Ellis Group,04:47.56,2013-01-08,6
+220764,Curtis,Johnson,Monza,Autodromo Nazionale di Monza,"Chan, Floyd and Dillon",Mullins-Gutierrez,05:19.12,2013-01-08,7
+295259,Elizabeth,Mcintyre,Monza,Autodromo Nazionale di Monza,Price LLC,Cooper-Jenkins,05:43.24,2013-01-08,8
+212185,Daniel,Brennan,Monza,Autodromo Nazionale di Monza,Love-Garcia,Ortiz-Rodriguez,07:00.48,2013-01-08,9
+207805,Rebecca,Decker,Monza,Autodromo Nazionale di Monza,Adams Ltd,"Miranda, Ruiz and Meza",07:56.29,2013-01-08,10
+265725,Jessica,Evans,Mexico City,Autódromo Hermanos Rodríguez,Gross-Valencia,Wilkinson and Sons,03:13.56,2013-01-09,1
+288614,Mike,Guerrero,Mexico City,Autódromo Hermanos Rodríguez,Fuentes Group,"Burns, Hanson and Garza",04:04.71,2013-01-09,2
+203267,Jasmine,Ferguson,Mexico City,Autódromo Hermanos Rodríguez,Wright Group,Decker Inc,04:27.54,2013-01-09,3
+205895,Kevin,Bell,Mexico City,Autódromo Hermanos Rodríguez,"Smith, Schroeder and Oconnor",Garrett-Young,04:43.89,2013-01-09,4
+255016,Matthew,Gibbs,Mexico City,Autódromo Hermanos Rodríguez,"Butler, Hernandez and Rivera",Brown Group,04:49.74,2013-01-09,5
+284664,Anthony,Nolan,Mexico City,Autódromo Hermanos Rodríguez,"Buchanan, Walker and Chapman",Parker Group,05:00.83,2013-01-09,6
+209348,Audrey,Miller,Mexico City,Autódromo Hermanos Rodríguez,Decker-Dudley,Thompson-Santiago,07:07.27,2013-01-09,7
+233159,Shawn,Thomas,Mexico City,Autódromo Hermanos Rodríguez,Thompson Ltd,Harris Ltd,08:51.73,2013-01-09,8
+293045,Stephanie,Whitney,Mexico City,Autódromo Hermanos Rodríguez,Adams and Sons,Joseph LLC,09:02.80,2013-01-09,9
+255766,John,Morse,Mexico City,Autódromo Hermanos Rodríguez,Murphy-Tran,Rose-Warren,09:03.05,2013-01-09,10
+208155,Cheryl,Young,Rio de Janeiro,Autódromo Internacional Nelson Piquet,Ferguson-Mclean,Owen-Brown,02:08.84,2013-01-10,1
+210966,Robert,Mckinney,Rio de Janeiro,Autódromo Internacional Nelson Piquet,Oconnor PLC,"Abbott, Green and Andrews",03:25.09,2013-01-10,2
+248404,James,Walker,Rio de Janeiro,Autódromo Internacional Nelson Piquet,Adams-Clayton,Hernandez Group,06:21.50,2013-01-10,3
+256886,Andrea,Hernandez,Rio de Janeiro,Autódromo Internacional Nelson Piquet,Dougherty-Lin,Hammond-Lewis,06:27.32,2013-01-10,4
+205530,Shane,Chambers,Rio de Janeiro,Autódromo Internacional Nelson Piquet,Murray-Oconnor,Perez-Rojas,06:29.73,2013-01-10,5
+221732,Billy,Cox,Rio de Janeiro,Autódromo Internacional Nelson Piquet,Cervantes-Garcia,"Martinez, Green and Lopez",06:51.89,2013-01-10,6
+254340,Frederick,Thompson,Rio de Janeiro,Autódromo Internacional Nelson Piquet,"Johnson, Guzman and Mccall","Berger, Fields and Smith",07:35.39,2013-01-10,7
+226092,Joseph,Conley,Rio de Janeiro,Autódromo Internacional Nelson Piquet,Watson PLC,Brown PLC,08:04.62,2013-01-10,8
+238660,Vincent,Smith,Rio de Janeiro,Autódromo Internacional Nelson Piquet,Boyle-Smith,Miller LLC,08:15.35,2013-01-10,9
+289930,Brett,Romero,Rio de Janeiro,Autódromo Internacional Nelson Piquet,"Davis, Rodriguez and Andrews","Williams, Medina and Moore",08:55.66,2013-01-10,10
+272124,Jesse,Mullins,Portimão,Autódromo Internacional do Algarve,Petersen PLC,"Marshall, Schultz and Dalton",01:24.70,2013-01-11,1
+202557,Brandi,Garcia,Portimão,Autódromo Internacional do Algarve,"Price, Carlson and Andrews","Wagner, Walker and Roberts",02:01.15,2013-01-11,2
+218141,Larry,Le,Portimão,Autódromo Internacional do Algarve,Mendez-Mayer,"Clark, Carpenter and Nguyen",02:08.88,2013-01-11,3
+286672,Adrienne,Wolf,Portimão,Autódromo Internacional do Algarve,Underwood-Foster,Garcia Ltd,04:30.22,2013-01-11,4
+237065,Nancy,Santos,Portimão,Autódromo Internacional do Algarve,Fox-Edwards,Jackson-Jennings,05:25.74,2013-01-11,5
+291007,Holly,Jennings,Portimão,Autódromo Internacional do Algarve,Randall PLC,"Osborne, Harrison and Hunt",05:51.32,2013-01-11,6
+223093,Jennifer,Moore,Portimão,Autódromo Internacional do Algarve,"Wheeler, Rice and Levine","Ellison, Vaughn and Mckee",06:52.48,2013-01-11,7
+287455,Wesley,Wood,Portimão,Autódromo Internacional do Algarve,Peterson PLC,Clayton-Martinez,06:59.20,2013-01-11,8
+257043,Sara,Hayes,Portimão,Autódromo Internacional do Algarve,"Parks, Johnson and Love","Kennedy, Valdez and Stafford",08:44.47,2013-01-11,9
+250517,Kevin,Combs,Portimão,Autódromo Internacional do Algarve,Moreno-Gutierrez,Burns Inc,08:53.83,2013-01-11,10
+280219,Haley,Gardner,São Paulo,Autódromo José Carlos Pace,"Moon, Farmer and Hill",Hill Ltd,01:44.48,2013-01-12,1
+249811,Emily,Jones,São Paulo,Autódromo José Carlos Pace,"Weber, Wheeler and Gonzalez",Stephens LLC,02:15.21,2013-01-12,2
+208571,Bryan,Williams,São Paulo,Autódromo José Carlos Pace,Morris-Brewer,"Olson, Wood and Peters",02:31.21,2013-01-12,3
+229592,Thomas,Scott,São Paulo,Autódromo José Carlos Pace,"Proctor, Burton and Crawford","Smith, Khan and Ramirez",03:20.09,2013-01-12,4
+242941,Ashley,Olson,São Paulo,Autódromo José Carlos Pace,"Morrison, Russo and Lopez",Nunez-Freeman,04:34.83,2013-01-12,5
+286416,Jill,Rodgers,São Paulo,Autódromo José Carlos Pace,Martin-Taylor,Payne LLC,05:04.31,2013-01-12,6
+256556,Kathy,Gilbert,São Paulo,Autódromo José Carlos Pace,Drake-Wolfe,Chavez-Johnson,05:27.56,2013-01-12,7
+289112,Craig,Bauer,São Paulo,Autódromo José Carlos Pace,Clark Inc,"Bennett, Moore and Hobbs",06:19.89,2013-01-12,8
+212161,David,Bennett,São Paulo,Autódromo José Carlos Pace,"Steele, Williams and Preston",Jackson Group,07:54.87,2013-01-12,9
+264925,Bridget,Sanchez,São Paulo,Autódromo José Carlos Pace,"Jacobson, Singleton and King","Phelps, York and Randolph",08:34.74,2013-01-12,10
+259638,Robert,Pacheco,Buenos Aires,Autódromo Juan y Oscar Gálvez,Brown-Hernandez,Dickson Group,03:26.96,2013-01-13,1
+288668,Matthew,Jenkins,Buenos Aires,Autódromo Juan y Oscar Gálvez,Adams-Butler,Blanchard-Reynolds,03:35.11,2013-01-13,2
+202911,Wendy,Lester,Buenos Aires,Autódromo Juan y Oscar Gálvez,Faulkner-Casey,Warren Group,03:48.33,2013-01-13,3
+262592,Jennifer,Sparks,Buenos Aires,Autódromo Juan y Oscar Gálvez,"Morrison, Hebert and Rogers",Brock and Sons,04:16.70,2013-01-13,4
+202368,Matthew,Mason,Buenos Aires,Autódromo Juan y Oscar Gálvez,Tran Ltd,"Guerrero, Graves and Armstrong",04:55.50,2013-01-13,5
+217429,Kristin,Gomez,Buenos Aires,Autódromo Juan y Oscar Gálvez,"Martinez, Cline and Wright",Lin-Smith,06:13.51,2013-01-13,6
+201062,Terri,Allen,Buenos Aires,Autódromo Juan y Oscar Gálvez,Wells-Hernandez,"White, Porter and Clements",08:10.61,2013-01-13,7
+271932,Susan,Hill,Buenos Aires,Autódromo Juan y Oscar Gálvez,"Fowler, Jimenez and Burton","Hernandez, Knight and Aguirre",08:18.97,2013-01-13,8
+244262,Rodney,Levy,Buenos Aires,Autódromo Juan y Oscar Gálvez,"Morris, Campbell and Owens",Page-Jacobs,09:21.86,2013-01-13,9
+233591,Ryan,Norris,Buenos Aires,Autódromo Juan y Oscar Gálvez,"Hester, Thompson and Daniels","Buchanan, Tucker and Wade",09:29.54,2013-01-13,10
+279909,Monica,Christensen,Estoril,Autódromo do Estoril,Burns-Ray,"Garcia, Stewart and Delacruz",01:07.06,2013-01-14,1
+275353,Lynn,Young,Estoril,Autódromo do Estoril,Figueroa-Malone,Scott PLC,03:06.15,2013-01-14,2
+285067,Amy,Morris,Estoril,Autódromo do Estoril,Yu-Brooks,"Reynolds, Baird and Bradley",04:14.93,2013-01-14,3
+230080,Jessica,Ramsey,Estoril,Autódromo do Estoril,Owens-Lang,Adkins-Meyer,06:08.67,2013-01-14,4
+267641,John,Williams,Estoril,Autódromo do Estoril,Aguilar-Bender,Villanueva LLC,06:44.80,2013-01-14,5
+202695,Amanda,Miller,Estoril,Autódromo do Estoril,Small-Anderson,Baker LLC,07:12.81,2013-01-14,6
+283763,Jason,Garrison,Estoril,Autódromo do Estoril,Diaz-Frederick,Rodriguez-Mills,07:41.73,2013-01-14,7
+289780,Heidi,Patterson,Estoril,Autódromo do Estoril,Bates LLC,"Young, Wilson and Moreno",08:39.30,2013-01-14,8
+206655,Karen,Drake,Estoril,Autódromo do Estoril,"Flores, Mckenzie and Duncan",Davis LLC,09:32.15,2013-01-14,9
+225658,Christopher,Perry,Estoril,Autódromo do Estoril,Ballard Ltd,Joseph Ltd,09:58.17,2013-01-14,10
+211938,Tami,Lewis,Sakhir,Bahrain International Circuit,Stokes and Sons,Lamb-Weber,01:13.18,2013-01-15,1
+244482,Colleen,Richardson,Sakhir,Bahrain International Circuit,Smith LLC,Harvey-Diaz,01:13.28,2013-01-15,2
+291387,John,Malone,Sakhir,Bahrain International Circuit,Stewart-Bailey,Winters PLC,03:09.68,2013-01-15,3
+237157,Emma,Levine,Sakhir,Bahrain International Circuit,Moore-Dawson,"Evans, Ward and Williams",04:23.55,2013-01-15,4
+218070,Robert,Nelson,Sakhir,Bahrain International Circuit,"Wang, Henderson and Morales",Higgins Inc,04:34.48,2013-01-15,5
+277505,Rachel,Hayes,Sakhir,Bahrain International Circuit,"Wagner, Simpson and Cohen","Gilbert, Fitzgerald and Sanchez",06:19.29,2013-01-15,6
+262623,Matthew,Alexander,Sakhir,Bahrain International Circuit,"Flores, Harper and Chambers",Olsen Ltd,06:27.12,2013-01-15,7
+272936,Jacqueline,Taylor,Sakhir,Bahrain International Circuit,Johnston and Sons,Moss Group,06:53.82,2013-01-15,8
+232217,Amber,Burton,Sakhir,Bahrain International Circuit,Ramirez and Sons,"Flores, Thomas and Bush",06:58.37,2013-01-15,9
+276820,Joshua,Moore,Sakhir,Bahrain International Circuit,"Mckinney, Graves and Thompson",Avila PLC,09:32.88,2013-01-15,10
+200728,Heather,Galvan,Baku,Baku City Circuit,Mason Ltd,Johnson PLC,01:49.40,2013-01-16,1
+232745,Melanie,Williams,Baku,Baku City Circuit,Cruz-Allen,Murray-Henderson,02:36.40,2013-01-16,2
+291794,Katie,Webster,Baku,Baku City Circuit,Jackson PLC,"Charles, Wiggins and Cook",03:12.49,2013-01-16,3
+249115,Jeffery,Rodgers,Baku,Baku City Circuit,"Gutierrez, Avila and Perez",Austin-Berger,03:50.25,2013-01-16,4
+287939,James,Byrd,Baku,Baku City Circuit,Johnson Ltd,"Holmes, Stewart and Smith",04:53.10,2013-01-16,5
+248354,Mary,Jacobs,Baku,Baku City Circuit,Brooks and Sons,Maddox-Mullins,05:03.44,2013-01-16,6
+234578,Kelly,King,Baku,Baku City Circuit,Gutierrez-Hawkins,Clarke LLC,06:35.29,2013-01-16,7
+255284,Andrea,Farrell,Baku,Baku City Circuit,"Rowe, Lucas and Case",Baker Ltd,07:15.29,2013-01-16,8
+226309,Breanna,Johnson,Baku,Baku City Circuit,Davis and Sons,Huang LLC,08:19.87,2013-01-16,9
+265697,Sherri,Schwartz,Baku,Baku City Circuit,Hoffman Ltd,Hanson PLC,09:20.36,2013-01-16,10
+272267,Tim,Spencer,Kent,Brands Hatch,"Jones, Cummings and Conway",Jacobson Ltd,01:15.79,2013-01-17,1
+226854,Rita,Santana,Kent,Brands Hatch,Turner-Sharp,"Gonzalez, Smith and Padilla",02:39.63,2013-01-17,2
+200412,Amanda,Valentine,Kent,Brands Hatch,"Arnold, Cooper and Monroe",Erickson Inc,04:45.49,2013-01-17,3
+203748,Joshua,Richards,Kent,Brands Hatch,White-Preston,Johnson Ltd,06:13.87,2013-01-17,4
+293848,James,Wilson,Kent,Brands Hatch,Hall LLC,"Daniel, Jimenez and Morton",06:42.07,2013-01-17,5
+278832,David,Kim,Kent,Brands Hatch,Rivera Inc,"Carter, Gilbert and West",06:55.74,2013-01-17,6
+231551,Christine,Reed,Kent,Brands Hatch,Li PLC,"Kennedy, Rowe and Diaz",07:02.72,2013-01-17,7
+297888,Michelle,Bruce,Kent,Brands Hatch,Kramer-Shannon,"Salazar, Garrett and Perez",07:44.98,2013-01-17,8
+239384,Destiny,Thompson,Kent,Brands Hatch,"Woodard, Herrera and Little","Brown, Jensen and Rice",08:10.54,2013-01-17,9
+230354,Thomas,Shelton,Kent,Brands Hatch,"Price, Dixon and Robles",Watson PLC,08:46.75,2013-01-17,10
+223419,Rodney,Lawson,Uttar Pradesh,Buddh International Circuit,Avila LLC,Fox Group,01:46.93,2013-01-18,1
+273523,Thomas,Rios,Uttar Pradesh,Buddh International Circuit,Johnson Inc,Short PLC,02:29.78,2013-01-18,2
+255069,Travis,Young,Uttar Pradesh,Buddh International Circuit,Fisher-Eaton,"Harris, Spencer and Ponce",03:00.86,2013-01-18,3
+220159,Katherine,Mitchell,Uttar Pradesh,Buddh International Circuit,Jackson PLC,"Bradley, Melendez and Gonzalez",04:31.94,2013-01-18,4
+232711,Charles,Nguyen,Uttar Pradesh,Buddh International Circuit,Bruce-Williamson,"Delgado, Guzman and Smith",04:49.02,2013-01-18,5
+209692,Antonio,Moore,Uttar Pradesh,Buddh International Circuit,Hernandez-Vaughn,Johns Ltd,06:35.93,2013-01-18,6
+250336,Chad,Griffith,Uttar Pradesh,Buddh International Circuit,Abbott Ltd,Stone Group,07:02.81,2013-01-18,7
+251991,Elijah,Conner,Uttar Pradesh,Buddh International Circuit,Lopez-Williams,"Simon, Terrell and Terrell",07:16.00,2013-01-18,8
+291267,Charles,Mahoney,Uttar Pradesh,Buddh International Circuit,"Gray, Montoya and Miller",Castillo LLC,07:22.41,2013-01-18,9
+255680,Beth,Garcia,Uttar Pradesh,Buddh International Circuit,Hickman-Evans,Ford-Moody,08:09.43,2013-01-18,10
+223897,Mitchell,Shepherd,Clermont-Ferrand,Charade Circuit,Brooks-Hatfield,"Nguyen, Padilla and Boyd",02:12.37,2013-01-19,1
+217955,Anthony,Spencer,Clermont-Ferrand,Charade Circuit,"Levy, Franco and Hoffman","Vasquez, Thomas and Mack",02:35.33,2013-01-19,2
+282989,Daniel,Adams,Clermont-Ferrand,Charade Circuit,Wheeler PLC,Lopez PLC,04:36.41,2013-01-19,3
+231616,James,Camacho,Clermont-Ferrand,Charade Circuit,Mueller-Boyd,"Gardner, Brooks and Pierce",04:36.45,2013-01-19,4
+284651,Sarah,Young,Clermont-Ferrand,Charade Circuit,Murphy PLC,"Haynes, Mcbride and Gutierrez",05:47.33,2013-01-19,5
+268027,Brent,Collins,Clermont-Ferrand,Charade Circuit,Chavez-Hall,"Huang, Ford and Olsen",05:59.25,2013-01-19,6
+278859,Heather,Rush,Clermont-Ferrand,Charade Circuit,Williams LLC,"Fox, Harrington and Wang",06:32.99,2013-01-19,7
+293105,Krystal,Cook,Clermont-Ferrand,Charade Circuit,Pruitt-Webb,Ellis-Jackson,06:41.18,2013-01-19,8
+246576,Todd,Turner,Clermont-Ferrand,Charade Circuit,"Hernandez, Lee and Fox",Harper-Robles,07:50.51,2013-01-19,9
+259101,Kathleen,Gregory,Clermont-Ferrand,Charade Circuit,Barron and Sons,Wells and Sons,09:14.36,2013-01-19,10
+227355,Jacob,Griffin,Bern,Circuit Bremgarten,Williams-Villanueva,Davis-Ortiz,01:06.28,2013-01-20,1
+237080,Eric,Gonzalez,Bern,Circuit Bremgarten,Rivera LLC,Anderson LLC,01:36.62,2013-01-20,2
+204611,James,Collins,Bern,Circuit Bremgarten,Davis-Stephens,Bush-Wilson,02:05.10,2013-01-20,3
+210492,Emily,Peterson,Bern,Circuit Bremgarten,Wright PLC,"Liu, Buchanan and Meyer",02:59.86,2013-01-20,4
+239734,Phyllis,Morrison,Bern,Circuit Bremgarten,Parks-Pace,Peterson Group,05:40.22,2013-01-20,5
+229299,Ronald,Schultz,Bern,Circuit Bremgarten,Rose-Fowler,Hobbs-Hamilton,06:11.19,2013-01-20,6
+252995,Kimberly,Ortiz,Bern,Circuit Bremgarten,"Allen, Armstrong and Graves","Thomas, Jackson and Nielsen",08:03.17,2013-01-20,7
+287054,Joseph,Mitchell,Bern,Circuit Bremgarten,"Anderson, Dalton and Wilson","Melton, Henry and Joyce",08:06.14,2013-01-20,8
+268450,Hannah,Brown,Bern,Circuit Bremgarten,Arroyo LLC,Diaz LLC,08:20.55,2013-01-20,9
+238623,Kenneth,Moore,Bern,Circuit Bremgarten,Ali PLC,Snyder LLC,08:34.59,2013-01-20,10
+201150,Jasmine,Turner,Montreal,Circuit Gilles Villeneuve,Castillo-Harrington,"Williams, Reyes and Miller",01:16.84,2013-01-21,1
+289812,Rachael,Welch,Montreal,Circuit Gilles Villeneuve,Williams-Moses,Bell-Ballard,02:22.03,2013-01-21,2
+222299,Chad,Phillips,Montreal,Circuit Gilles Villeneuve,"Shelton, Peters and Williams",Taylor-Barry,03:12.81,2013-01-21,3
+235270,James,Miller,Montreal,Circuit Gilles Villeneuve,Smith-Ferguson,Hoover-Davis,04:21.25,2013-01-21,4
+289045,John,Martinez,Montreal,Circuit Gilles Villeneuve,Miller Group,Perkins Ltd,05:31.47,2013-01-21,5
+270588,Erica,Taylor,Montreal,Circuit Gilles Villeneuve,Bartlett-Sloan,Smith-Rodriguez,05:45.62,2013-01-21,6
+209435,Amy,Hughes,Montreal,Circuit Gilles Villeneuve,Lopez Group,"Wilson, Mendoza and Crosby",07:56.01,2013-01-21,7
+294179,Kimberly,Perry,Montreal,Circuit Gilles Villeneuve,Medina and Sons,Bailey-Flores,08:13.54,2013-01-21,8
+210729,Christina,Campbell,Montreal,Circuit Gilles Villeneuve,"Walters, Davenport and Becker",Tate LLC,09:04.01,2013-01-21,9
+237194,Patricia,Gay,Montreal,Circuit Gilles Villeneuve,Mcdonald-Bird,James-Short,09:23.66,2013-01-21,10
+268148,Jason,Hughes,Quebec,Circuit Mont-Tremblant,"Mcmillan, Fischer and Gonzalez",Davenport-Baker,01:15.54,2013-01-22,1
+226646,Nicholas,Mitchell,Quebec,Circuit Mont-Tremblant,"Jones, Mcmahon and Spence","Cruz, Middleton and Larsen",01:18.32,2013-01-22,2
+263335,Natasha,Armstrong,Quebec,Circuit Mont-Tremblant,Wilson-Harris,Black-Smith,01:57.87,2013-01-22,3
+237841,Melissa,Garcia,Quebec,Circuit Mont-Tremblant,"Lynch, Evans and Rodriguez",Mendez Inc,02:59.06,2013-01-22,4
+288858,Jeremiah,Williams,Quebec,Circuit Mont-Tremblant,"Gregory, White and James",Robinson-Phillips,03:20.28,2013-01-22,5
+220932,Cynthia,Boyd,Quebec,Circuit Mont-Tremblant,Alvarez-Kim,"King, Nixon and West",05:09.48,2013-01-22,6
+236212,Ryan,White,Quebec,Circuit Mont-Tremblant,"Wallace, Smith and Cooper","Adams, Bradley and Hall",06:02.20,2013-01-22,7
+239353,Jason,Ortiz,Quebec,Circuit Mont-Tremblant,Adams-Sanders,"Brooks, Jenkins and Castro",06:21.63,2013-01-22,8
+292772,John,Morgan,Quebec,Circuit Mont-Tremblant,Taylor PLC,"Brown, Meyer and Cunningham",06:51.76,2013-01-22,9
+299657,Keith,Watson,Quebec,Circuit Mont-Tremblant,"Williams, Randolph and Gilbert",Johnson PLC,08:10.12,2013-01-22,10
+247254,Alan,Williams,Zandvoort,Circuit Park Zandvoort,Rodriguez and Sons,"Jones, Torres and Blackburn",02:20.96,2013-01-23,1
+297504,John,Carson,Zandvoort,Circuit Park Zandvoort,"Bernard, Warren and Combs",Dalton-Nguyen,02:23.36,2013-01-23,2
+264505,Monica,Byrd,Zandvoort,Circuit Park Zandvoort,Green LLC,Dunn Ltd,02:53.05,2013-01-23,3
+239790,Tammy,Richardson,Zandvoort,Circuit Park Zandvoort,Williams Ltd,Berry Group,02:53.34,2013-01-23,4
+252921,Heather,Smith,Zandvoort,Circuit Park Zandvoort,"Franco, Wiley and Tapia","Hall, Roberts and Lee",03:19.25,2013-01-23,5
+213843,Denise,Cisneros,Zandvoort,Circuit Park Zandvoort,"Roberts, Beck and House",Ferguson Inc,05:15.52,2013-01-23,6
+211394,Michelle,Arnold,Zandvoort,Circuit Park Zandvoort,"Edwards, Hines and Jimenez",Vance PLC,06:33.79,2013-01-23,7
+251293,Cindy,Gonzales,Zandvoort,Circuit Park Zandvoort,Reed LLC,Maldonado LLC,07:13.82,2013-01-23,8
+248136,Lynn,Myers,Zandvoort,Circuit Park Zandvoort,"Hall, Hinton and Phillips",Watkins-Nguyen,08:25.93,2013-01-23,9
+207543,Timothy,Joyce,Zandvoort,Circuit Park Zandvoort,Curry-Barker,Gates and Sons,08:54.72,2013-01-23,10
+261858,Nancy,King,Le Castellet,Circuit Paul Ricard,Morales Inc,"Hale, Gilbert and Craig",01:32.98,2013-01-24,1
+237504,Martha,Smith,Le Castellet,Circuit Paul Ricard,"Moore, Henderson and Bennett","Jones, Conrad and Clark",01:59.73,2013-01-24,2
+235773,Teresa,Duarte,Le Castellet,Circuit Paul Ricard,"Rodriguez, Allen and Martinez","Jones, Smith and Hunter",02:09.75,2013-01-24,3
+261642,Emily,Jones,Le Castellet,Circuit Paul Ricard,Vaughn LLC,"Conway, Bauer and Martin",02:55.08,2013-01-24,4
+289588,Jessica,Stokes,Le Castellet,Circuit Paul Ricard,Hill Group,Bell-Hardy,02:57.86,2013-01-24,5
+258053,John,Herrera,Le Castellet,Circuit Paul Ricard,"Pena, Cohen and Scott",Garcia PLC,03:10.90,2013-01-24,6
+232097,Melissa,Johnston,Le Castellet,Circuit Paul Ricard,"Mueller, Stevenson and Sanchez","Rice, Miller and Ramsey",04:49.62,2013-01-24,7
+261389,Erin,Klein,Le Castellet,Circuit Paul Ricard,"Phillips, Thompson and Smith","Wise, Gray and Snyder",05:52.62,2013-01-24,8
+238102,Scott,Jones,Le Castellet,Circuit Paul Ricard,Kelley and Sons,Clark-King,07:46.47,2013-01-24,9
+230746,Jeremy,Lewis,Le Castellet,Circuit Paul Ricard,Flynn Group,Zamora-Briggs,09:58.30,2013-01-24,10
+286188,Donna,Preston,Montmel,Circuit de Barcelona-Catalunya,"Brandt, Carter and Boyd",Wong Ltd,01:11.95,2013-01-25,1
+201016,Anna,Brennan,Montmel,Circuit de Barcelona-Catalunya,"Hill, Martinez and Rhodes",Prince Ltd,01:40.96,2013-01-25,2
+281734,Brianna,Riley,Montmel,Circuit de Barcelona-Catalunya,Young-Walter,Brock-Peters,03:08.09,2013-01-25,3
+202869,Jason,Perez,Montmel,Circuit de Barcelona-Catalunya,Mckinney-Wallace,Adams Group,04:35.45,2013-01-25,4
+267863,Joe,Howard,Montmel,Circuit de Barcelona-Catalunya,"Moore, Price and Ward","Robinson, Rodriguez and Chen",05:09.85,2013-01-25,5
+224466,Joseph,Thornton,Montmel,Circuit de Barcelona-Catalunya,Glover-Chan,"Smith, Meadows and Montgomery",05:57.45,2013-01-25,6
+235777,Shelby,Fischer,Montmel,Circuit de Barcelona-Catalunya,"Herrera, Jensen and Ramirez",Wilson Group,07:00.76,2013-01-25,7
+254886,Jeffrey,Pierce,Montmel,Circuit de Barcelona-Catalunya,Hicks-Martinez,Haynes Inc,07:31.88,2013-01-25,8
+235195,Daniel,Meza,Montmel,Circuit de Barcelona-Catalunya,Henderson Ltd,Washington-Martinez,08:49.85,2013-01-25,9
+208308,Devon,Hernandez,Montmel,Circuit de Barcelona-Catalunya,Gonzalez-Wilkerson,Andrews-Jackson,09:25.88,2013-01-25,10
+255591,Brenda,Jones,Monte-Carlo,Circuit de Monaco,Blevins-Ballard,"Moreno, Perez and Lang",02:09.13,2013-01-26,1
+293426,Jeffrey,Davis,Monte-Carlo,Circuit de Monaco,"Fry, Hobbs and Buck","Hernandez, Shaffer and Thompson",02:22.53,2013-01-26,2
+251990,Heather,Ramos,Monte-Carlo,Circuit de Monaco,Mayo Ltd,Williams-Johnson,02:56.06,2013-01-26,3
+282074,Raven,Jordan,Monte-Carlo,Circuit de Monaco,Herrera Group,"Salazar, Moore and Pierce",03:38.30,2013-01-26,4
+250108,Curtis,Chavez,Monte-Carlo,Circuit de Monaco,Carter LLC,Powers Group,04:01.00,2013-01-26,5
+269896,David,Smith,Monte-Carlo,Circuit de Monaco,Powell-Sanford,Jackson Inc,04:40.56,2013-01-26,6
+282386,Erica,Davis,Monte-Carlo,Circuit de Monaco,Johnson-Spencer,"Turner, Miller and Hubbard",04:45.85,2013-01-26,7
+286769,Ronald,Kline,Monte-Carlo,Circuit de Monaco,"Newton, Ortiz and King",Zavala and Sons,05:23.87,2013-01-26,8
+265733,Pamela,Lopez,Monte-Carlo,Circuit de Monaco,Ward-Nelson,"Wilson, Mccormick and Smith",07:43.70,2013-01-26,9
+204000,Larry,Perez,Monte-Carlo,Circuit de Monaco,Flowers LLC,Anderson-Campbell,08:52.34,2013-01-26,10
+290272,Nicole,Davis,Magny Cours,Circuit de Nevers Magny-Cours,Cunningham-Barton,"Rios, Carrillo and Jackson",01:02.50,2013-01-27,1
+299713,Kevin,Gregory,Magny Cours,Circuit de Nevers Magny-Cours,Collins Group,"Savage, Huffman and Martin",01:07.01,2013-01-27,2
+223247,Reginald,Mccall,Magny Cours,Circuit de Nevers Magny-Cours,Reed Group,"Johnston, Coleman and Scott",02:14.96,2013-01-27,3
+243585,Crystal,Burgess,Magny Cours,Circuit de Nevers Magny-Cours,David-Powers,"Holmes, Le and Floyd",02:26.77,2013-01-27,4
+234698,Brooke,Charles,Magny Cours,Circuit de Nevers Magny-Cours,Hawkins-Hunt,Barker-Moore,03:05.38,2013-01-27,5
+259163,David,Scott,Magny Cours,Circuit de Nevers Magny-Cours,"Watson, Smith and Morris","Jackson, Garza and Meyers",03:20.27,2013-01-27,6
+289480,Caleb,Hill,Magny Cours,Circuit de Nevers Magny-Cours,Durham-Shaw,White-Carlson,03:21.62,2013-01-27,7
+203709,Deborah,Beltran,Magny Cours,Circuit de Nevers Magny-Cours,Bryant and Sons,"Pitts, Warner and Mullins",07:08.98,2013-01-27,8
+287498,Christopher,Durham,Magny Cours,Circuit de Nevers Magny-Cours,Salazar Inc,Wells PLC,08:47.66,2013-01-27,9
+293610,Susan,Jones,Magny Cours,Circuit de Nevers Magny-Cours,Miller PLC,Kent Ltd,09:27.10,2013-01-27,10
+272615,Julia,Wolf,Barcelona,Circuit de Pedralbes,Aguilar LLC,"Russo, Collins and Murphy",01:25.35,2013-01-28,1
+204835,Michael,Davies,Barcelona,Circuit de Pedralbes,Flores Inc,Perry-Peters,01:39.12,2013-01-28,2
+227663,Andrew,Bennett,Barcelona,Circuit de Pedralbes,Watson Group,Nixon-Miller,01:41.54,2013-01-28,3
+207392,Tanya,Perry,Barcelona,Circuit de Pedralbes,Goodwin Ltd,Collins-Lloyd,02:15.47,2013-01-28,4
+221352,Debbie,Shaw,Barcelona,Circuit de Pedralbes,"Davis, Kelly and Garner",Randall LLC,03:01.19,2013-01-28,5
+206102,Michael,Wood,Barcelona,Circuit de Pedralbes,"Griffith, Mitchell and Pugh",Bryant-Rich,03:04.78,2013-01-28,6
+201324,Glenn,Williams,Barcelona,Circuit de Pedralbes,Hunter PLC,Holland Inc,03:42.52,2013-01-28,7
+240757,Jeremy,Pena,Barcelona,Circuit de Pedralbes,Smith LLC,"Mullen, Greene and Elliott",04:34.12,2013-01-28,8
+287897,Monique,Lindsey,Barcelona,Circuit de Pedralbes,"Long, Anderson and Irwin","Ramirez, Walker and Ray",05:29.16,2013-01-28,9
+212874,Alec,Kelley,Barcelona,Circuit de Pedralbes,"Price, Long and Wilson",Kane and Sons,06:27.62,2013-01-28,10
+295003,John,Schmidt,Spa,Circuit de Spa-Francorchamps,Faulkner-Grant,"Cook, Ward and Castro",01:43.32,2013-01-29,1
+246175,Robert,Brown,Spa,Circuit de Spa-Francorchamps,Garcia Ltd,"Mcdonald, Bryant and Cohen",04:00.49,2013-01-29,2
+203987,Michelle,Leblanc,Spa,Circuit de Spa-Francorchamps,"Greer, Potter and Evans",Singh and Sons,04:07.03,2013-01-29,3
+289643,Courtney,Stephenson,Spa,Circuit de Spa-Francorchamps,"Chang, Ayers and Buckley",Larson and Sons,04:37.04,2013-01-29,4
+225470,Kyle,Owen,Spa,Circuit de Spa-Francorchamps,Tran Group,"Bryan, Lam and Hayes",05:03.75,2013-01-29,5
+286807,Brandon,Schultz,Spa,Circuit de Spa-Francorchamps,"Perez, Hall and Garcia","Smith, Pena and Watts",05:15.93,2013-01-29,6
+254748,Bethany,Greene,Spa,Circuit de Spa-Francorchamps,"Smith, Crawford and Reed",Dean LLC,06:14.83,2013-01-29,7
+242107,Sarah,Smith,Spa,Circuit de Spa-Francorchamps,Armstrong and Sons,"Kramer, Sherman and Trujillo",06:37.08,2013-01-29,8
+254098,Todd,Rodriguez,Spa,Circuit de Spa-Francorchamps,Bryant-Meyer,Duran PLC,07:08.95,2013-01-29,9
+267221,Anthony,Moran,Spa,Circuit de Spa-Francorchamps,Humphrey PLC,Medina-Arroyo,09:53.12,2013-01-29,10
+285314,Elizabeth,Frank,Austin,Circuit of the Americas,Harris-Lawson,"Williams, Hughes and Hubbard",01:10.64,2013-01-30,1
+235909,Aaron,Robertson,Austin,Circuit of the Americas,Solis-West,Warner PLC,01:36.37,2013-01-30,2
+246717,Amy,Burns,Austin,Circuit of the Americas,"Allen, Davenport and Price",Miller-Christensen,02:48.87,2013-01-30,3
+257679,David,Li,Austin,Circuit of the Americas,Marshall-Perez,Marshall-Miller,04:03.53,2013-01-30,4
+247605,Colleen,Hendricks,Austin,Circuit of the Americas,"Smith, Jones and Santiago",Roberts-Henry,05:19.17,2013-01-30,5
+214397,Laura,Vang,Austin,Circuit of the Americas,Green-Carter,"Lee, Dominguez and Mosley",05:49.97,2013-01-30,6
+250636,Jason,Gomez,Austin,Circuit of the Americas,Nunez-Stephens,Ayers-Johnson,05:50.04,2013-01-30,7
+205539,Nicole,Vang,Austin,Circuit of the Americas,"Mccarthy, Evans and Mendez","Reyes, Torres and Williams",07:37.68,2013-01-30,8
+294476,Jonathon,Thompson,Austin,Circuit of the Americas,Orr Group,"Haney, Harris and Johnson",07:38.54,2013-01-30,9
+245758,Leslie,Harrison,Austin,Circuit of the Americas,Shaw-Carr,"Nicholson, Valentine and Robinson",08:45.67,2013-01-30,10
+267172,Spencer,Taylor,Oporto,Circuito da Boavista,Miller Group,Walsh PLC,02:07.12,2013-01-31,1
+227266,Todd,Knight,Oporto,Circuito da Boavista,"Brown, Mcknight and Michael",Moss LLC,03:53.91,2013-01-31,2
+267121,Frank,Lawrence,Oporto,Circuito da Boavista,Richardson Ltd,Martin-Jones,04:09.31,2013-01-31,3
+229703,Tara,Wilson,Oporto,Circuito da Boavista,"Moreno, Barajas and Colon","Miller, Luna and Wallace",05:25.45,2013-01-31,4
+254021,Stephanie,Bailey,Oporto,Circuito da Boavista,Hernandez-Dawson,"Hodge, Mckinney and Nelson",06:22.60,2013-01-31,5
+203420,Jonathan,Morales,Oporto,Circuito da Boavista,Bishop and Sons,Schaefer Group,06:47.75,2013-01-31,6
+265417,Zoe,Thomas,Oporto,Circuito da Boavista,Williams PLC,Hanson-Gibson,08:45.50,2013-01-31,7
+215151,Joshua,Henry,Oporto,Circuito da Boavista,Foster-Mclaughlin,Moore-Baker,08:50.95,2013-01-31,8
+232479,Joshua,Hernandez,Oporto,Circuito da Boavista,Sullivan-Doyle,"Smith, Zimmerman and Wise",09:20.99,2013-01-31,9
+213807,Christine,Welch,Oporto,Circuito da Boavista,"Marks, Stone and Watts",Riley-Snow,09:40.01,2013-01-31,10
+267270,Charles,Smith,Jerez de la Frontera,Circuito de Jerez,Bennett-Velasquez,"Moore, Campbell and Ortiz",03:14.18,2013-02-01,1
+277575,Loretta,Whitaker,Jerez de la Frontera,Circuito de Jerez,"Rios, Walker and Wright","Thompson, Gibson and Riley",03:39.00,2013-02-01,2
+215305,Melissa,Rhodes,Jerez de la Frontera,Circuito de Jerez,"Davis, Alexander and Mcintyre","Garrison, Rogers and Adams",03:40.00,2013-02-01,3
+282848,Marcus,Bell,Jerez de la Frontera,Circuito de Jerez,"Morris, Wilson and Bell","Wilkinson, Wallace and Torres",04:46.64,2013-02-01,4
+267563,Erin,Jackson,Jerez de la Frontera,Circuito de Jerez,Hays-Daniels,Frost-Graham,05:31.85,2013-02-01,5
+223776,Stuart,Dalton,Jerez de la Frontera,Circuito de Jerez,"Howard, Green and Hunt",Nelson-Wallace,06:00.64,2013-02-01,6
+273666,Julie,Pearson,Jerez de la Frontera,Circuito de Jerez,"Stark, Schroeder and Mathis",Peterson Ltd,06:18.72,2013-02-01,7
+206893,Daniel,Ortega,Jerez de la Frontera,Circuito de Jerez,"Morris, Wright and Bridges","Hughes, Whitney and Romero",06:41.42,2013-02-01,8
+284076,Angela,Thomas,Jerez de la Frontera,Circuito de Jerez,"Jennings, Smith and Fisher","Serrano, Turner and Barnes",06:55.56,2013-02-01,9
+293016,Matthew,Tyler,Jerez de la Frontera,Circuito de Jerez,May-Turner,Jackson-Edwards,09:59.85,2013-02-01,10
+254045,Mark,Rodriguez,Detroit,Detroit Street Circuit,Kelley-Anderson,"Taylor, Blair and Meyer",01:36.21,2013-02-02,1
+211338,Lindsey,Richardson,Detroit,Detroit Street Circuit,Thompson-Harrell,"Shannon, Robinson and Greene",01:48.28,2013-02-02,2
+266803,Maria,Ryan,Detroit,Detroit Street Circuit,Wright-Grimes,Arnold PLC,03:03.46,2013-02-02,3
+294856,Robert,Chambers,Detroit,Detroit Street Circuit,Jackson-Cortez,Sims-Anderson,03:35.86,2013-02-02,4
+291362,Katelyn,Owen,Detroit,Detroit Street Circuit,"Stevenson, Hancock and Newton","Mann, Wade and Spence",04:19.00,2013-02-02,5
+273656,Vanessa,Morris,Detroit,Detroit Street Circuit,"Barnes, Johnson and Schmitt","Paul, Zamora and Short",04:34.54,2013-02-02,6
+299157,Crystal,Butler,Detroit,Detroit Street Circuit,Hernandez Group,"Gomez, Anderson and Hart",05:52.48,2013-02-02,7
+203561,Guy,Ballard,Detroit,Detroit Street Circuit,Young-Molina,Gomez-Foster,07:44.06,2013-02-02,8
+244078,Tanner,Wright,Detroit,Detroit Street Circuit,"Walker, Cunningham and Zuniga",Guerrero Group,08:15.54,2013-02-02,9
+206801,Shelley,Mcneil,Detroit,Detroit Street Circuit,Hernandez-Davis,Washington Inc,08:50.79,2013-02-02,10
+203890,Janet,Gibson,Dijon,Dijon-Prenois,Landry PLC,Sanders PLC,02:01.31,2013-02-03,1
+217640,Howard,Lawson,Dijon,Dijon-Prenois,"Edwards, Arnold and Smith",Gould LLC,02:40.18,2013-02-03,2
+294660,Darlene,Andrews,Dijon,Dijon-Prenois,Alexander Inc,"Anderson, Delgado and Carpenter",02:50.78,2013-02-03,3
+278781,Phillip,Moore,Dijon,Dijon-Prenois,"Santiago, Daniel and Rogers",Sellers-Zuniga,03:14.81,2013-02-03,4
+282873,Charles,Reid,Dijon,Dijon-Prenois,Phelps LLC,Maxwell LLC,04:00.96,2013-02-03,5
+260692,Jessica,Campbell,Dijon,Dijon-Prenois,"Chan, Lewis and Walker","Pratt, Lopez and Rodriguez",05:12.39,2013-02-03,6
+222662,Danielle,Alexander,Dijon,Dijon-Prenois,Sullivan PLC,Perez-Mccarty,05:21.63,2013-02-03,7
+213545,Scott,Rodriguez,Dijon,Dijon-Prenois,Duran Group,Dunn-Taylor,05:47.60,2013-02-03,8
+285981,Kevin,Fox,Dijon,Dijon-Prenois,"Terrell, Byrd and Ross",Lee Ltd,07:30.01,2013-02-03,9
+250300,John,Solis,Dijon,Dijon-Prenois,"Acosta, Garcia and Moreno",Mclaughlin and Sons,08:30.86,2013-02-03,10
+239504,Ryan,Durham,Castle Donington,Donington Park,Gibbs-Bradley,Bowman Group,01:44.15,2013-02-04,1
+276213,Steven,Burke,Castle Donington,Donington Park,Gibson-Freeman,Reed LLC,02:20.28,2013-02-04,2
+292787,Richard,Diaz,Castle Donington,Donington Park,Tran-Silva,Jackson Inc,03:54.78,2013-02-04,3
+220559,Barbara,Hill,Castle Donington,Donington Park,Thomas-Santiago,Huber-Montgomery,04:41.04,2013-02-04,4
+220358,Maria,Cole,Castle Donington,Donington Park,"Johnson, Lee and Whitaker","Kaiser, Edwards and Smith",04:51.00,2013-02-04,5
+287922,Andrew,Smith,Castle Donington,Donington Park,Cline-Ayala,Neal LLC,05:23.20,2013-02-04,6
+288461,Monique,Beck,Castle Donington,Donington Park,Gonzalez-Gonzalez,Jennings Group,07:16.62,2013-02-04,7
+259150,Lindsay,Campbell,Castle Donington,Donington Park,Edwards Ltd,Thompson PLC,08:38.80,2013-02-04,8
+271295,Natasha,Thompson,Castle Donington,Donington Park,"Clark, Salinas and Guerra",Duncan Group,08:53.45,2013-02-04,9
+272789,Ryan,Garcia,Castle Donington,Donington Park,"Stewart, Mann and Hoffman",Peters-Short,09:33.12,2013-02-04,10
+266199,Michelle,Hall,Dallas,Fair Park,Kirby and Sons,"Ryan, Garza and Bryant",01:27.98,2013-02-05,1
+293179,Ricardo,Aguirre,Dallas,Fair Park,Harris-Barker,"Mcbride, Huffman and Parker",02:42.96,2013-02-05,2
+260403,Anne,Watson,Dallas,Fair Park,Baker and Sons,"Haas, Cooper and Davis",05:24.29,2013-02-05,3
+289084,Joseph,Reyes,Dallas,Fair Park,Byrd LLC,King Group,06:31.24,2013-02-05,4
+208392,Chelsea,Reed,Dallas,Fair Park,"Carrillo, Vaughn and Fowler",Spears-Andrews,06:33.86,2013-02-05,5
+241606,Brandon,Morris,Dallas,Fair Park,Levy-Lewis,Bates PLC,07:02.64,2013-02-05,6
+260713,Elizabeth,Reese,Dallas,Fair Park,Sheppard-Jordan,Hudson and Sons,07:28.81,2013-02-05,7
+272592,Crystal,Zavala,Dallas,Fair Park,"Edwards, Rodgers and Davis",Garcia Ltd,07:41.49,2013-02-05,8
+252528,Brenda,Harrington,Dallas,Fair Park,Harris-Melton,Smith Ltd,08:49.05,2013-02-05,9
+222677,Diana,Montgomery,Dallas,Fair Park,Barnes Inc,"Duarte, Gutierrez and Cook",09:51.58,2013-02-05,10
+220056,Heather,Lin,Oyama,Fuji Speedway,"Bradford, Salinas and Kelly",Durham-Myers,01:40.56,2013-02-06,1
+286779,Laura,Benson,Oyama,Fuji Speedway,Russell Group,"Henderson, Diaz and Hill",02:43.84,2013-02-06,2
+259735,Amy,Davenport,Oyama,Fuji Speedway,Torres and Sons,"Thomas, White and Jensen",04:25.68,2013-02-06,3
+246214,Nicole,Davis,Oyama,Fuji Speedway,Clark Ltd,Cole-Johnson,05:04.19,2013-02-06,4
+208335,Alicia,Williams,Oyama,Fuji Speedway,Martin Group,"Wood, Martin and Sanchez",05:27.37,2013-02-06,5
+215708,John,Martinez,Oyama,Fuji Speedway,Fisher-Washington,Washington Group,06:38.95,2013-02-06,6
+252224,Keith,Morrison,Oyama,Fuji Speedway,"Ochoa, Garcia and Sandoval",Miller and Sons,07:14.58,2013-02-06,7
+249689,Scott,Clark,Oyama,Fuji Speedway,"Tanner, Wise and Johnson",Chapman Group,08:21.42,2013-02-06,8
+238494,Melissa,Miranda,Oyama,Fuji Speedway,"Washington, Lynch and Johnson","Jackson, Lane and Wilkinson",08:51.78,2013-02-06,9
+225939,David,Scott,Oyama,Fuji Speedway,Boone-Davis,Ray Ltd,09:50.48,2013-02-06,10
+260263,Anthony,Wilson,Hockenheim,Hockenheimring,"Mendoza, Jenkins and Ortiz","Phillips, Walters and Evans",01:14.23,2013-02-07,1
+266617,Amy,Romero,Hockenheim,Hockenheimring,"Robinson, Huang and Osborne",Edwards-Roth,01:27.76,2013-02-07,2
+274065,Whitney,Francis,Hockenheim,Hockenheimring,"Nelson, Hoffman and Nelson",George-Stephens,02:38.21,2013-02-07,3
+266320,Aaron,Estrada,Hockenheim,Hockenheimring,Wilson-Salazar,Barnes LLC,02:52.25,2013-02-07,4
+255771,Margaret,Jimenez,Hockenheim,Hockenheimring,"Monroe, Chapman and Barton","Frazier, Ramirez and Brown",03:27.75,2013-02-07,5
+242557,Rebecca,Anderson,Hockenheim,Hockenheimring,White-Medina,Ross Ltd,03:33.94,2013-02-07,6
+222671,Robert,Bates,Hockenheim,Hockenheimring,"Davis, George and Nguyen",Parks LLC,04:27.30,2013-02-07,7
+223328,Christine,Ortega,Hockenheim,Hockenheimring,Adams PLC,Hanson-Alexander,04:35.00,2013-02-07,8
+251934,Kathleen,Dunn,Hockenheim,Hockenheimring,Perez LLC,"Walker, Brock and Simmons",05:27.76,2013-02-07,9
+238304,Jennifer,Garcia,Hockenheim,Hockenheimring,"Ellis, Marks and Buchanan",Green Ltd,09:58.87,2013-02-07,10
+227751,Justin,Williams,Budapest,Hungaroring,Parker Ltd,"Mack, Griffin and Sims",01:14.32,2013-02-08,1
+264895,Jacob,Acosta,Budapest,Hungaroring,Anderson-Reyes,"Gregory, Nguyen and Daugherty",01:43.76,2013-02-08,2
+249080,Michele,Ryan,Budapest,Hungaroring,Atkinson LLC,Brown LLC,02:33.62,2013-02-08,3
+282798,William,Hamilton,Budapest,Hungaroring,Gilbert PLC,Lopez-Fletcher,04:06.65,2013-02-08,4
+269449,Charles,Wise,Budapest,Hungaroring,"Matthews, Harrington and Rodriguez",Washington PLC,04:09.37,2013-02-08,5
+216023,Jeffery,Collier,Budapest,Hungaroring,"Jones, Compton and Day","Wong, Bernard and Smith",04:23.29,2013-02-08,6
+294841,Robert,Collins,Budapest,Hungaroring,Stokes Group,"Chang, Lamb and Miller",05:28.04,2013-02-08,7
+291412,Eric,Brooks,Budapest,Hungaroring,Weaver-Sherman,Gonzalez LLC,05:50.18,2013-02-08,8
+225184,Brandy,May,Budapest,Hungaroring,Smith-Gutierrez,"Brown, Kelly and Moore",05:53.51,2013-02-08,9
+257799,Charles,Glass,Budapest,Hungaroring,Ellis-Lawrence,Chavez-Mason,09:58.45,2013-02-08,10
+270271,Martin,Cain,Indianapolis,Indianapolis Motor Speedway,Li Inc,"Webb, Blair and Thomas",02:16.06,2013-02-09,1
+238044,Patrick,Flynn,Indianapolis,Indianapolis Motor Speedway,Pearson and Sons,Hinton-Lane,03:30.43,2013-02-09,2
+210647,Rachel,Murphy,Indianapolis,Indianapolis Motor Speedway,"Ward, Porter and Bradley","Grant, Bryan and Williams",04:25.02,2013-02-09,3
+297532,Tonya,Martin,Indianapolis,Indianapolis Motor Speedway,Vaughn-Williams,Turner-Reese,04:45.58,2013-02-09,4
+261629,Holly,Morris,Indianapolis,Indianapolis Motor Speedway,Waller-Chavez,Crawford and Sons,07:07.47,2013-02-09,5
+203343,Omar,Hunter,Indianapolis,Indianapolis Motor Speedway,"Johnson, Haynes and Meza",Rodriguez-Mendoza,07:11.74,2013-02-09,6
+202811,Kevin,Hubbard,Indianapolis,Indianapolis Motor Speedway,Taylor Inc,"Mcdonald, Dillon and George",08:08.76,2013-02-09,7
+297203,James,Bryant,Indianapolis,Indianapolis Motor Speedway,"Wagner, Martinez and Dawson",Smith and Sons,08:25.32,2013-02-09,8
+267969,Lisa,Arnold,Indianapolis,Indianapolis Motor Speedway,"Huber, Hill and Weber","Murray, Dunn and Roberts",08:32.70,2013-02-09,9
+221834,Thomas,Drake,Indianapolis,Indianapolis Motor Speedway,"Ramsey, Hansen and Mendoza","Griffin, Miller and Austin",09:43.50,2013-02-09,10
+291680,Anthony,Tucker,Istanbul,Istanbul Park,Harris-Carson,York LLC,01:11.48,2013-02-10,1
+261135,John,Morgan,Istanbul,Istanbul Park,Miller Inc,Cohen-Johnston,01:29.56,2013-02-10,2
+236939,John,West,Istanbul,Istanbul Park,Mendez Ltd,Haynes and Sons,01:46.96,2013-02-10,3
+275450,Jerry,Oconnor,Istanbul,Istanbul Park,"Boyd, Gutierrez and Hill",Gonzalez-Marsh,01:54.95,2013-02-10,4
+289789,Jose,Johnson,Istanbul,Istanbul Park,Huang-Foster,"Reynolds, Fisher and Golden",02:09.59,2013-02-10,5
+256958,Erica,Wilson,Istanbul,Istanbul Park,Miller-Mccall,"Cox, Mills and Cruz",02:50.68,2013-02-10,6
+252083,David,Sanders,Istanbul,Istanbul Park,Smith LLC,Smith-Bauer,03:42.74,2013-02-10,7
+204748,Sarah,Paul,Istanbul,Istanbul Park,"Rodriguez, Prince and Vasquez",Castro and Sons,03:54.75,2013-02-10,8
+206265,Jill,Tran,Istanbul,Istanbul Park,Conner and Sons,Reilly-Rodriguez,06:31.24,2013-02-10,9
+205949,Jesse,Jones,Istanbul,Istanbul Park,"Wright, Mcknight and Stephens",Austin-Morgan,07:35.58,2013-02-10,10
+293557,Yvette,Hoffman,Madrid,Jarama,Williamson Ltd,Ballard Group,01:34.21,2013-02-11,1
+238756,Christopher,Montoya,Madrid,Jarama,"Owen, Walker and Franklin","Carrillo, Morris and Martin",03:05.09,2013-02-11,2
+256661,Kayla,Davis,Madrid,Jarama,Haynes-Watson,"Pierce, Wang and Wilson",03:27.05,2013-02-11,3
+287313,Christopher,Armstrong,Madrid,Jarama,"Smith, Rodriguez and Anderson","Brennan, Thomas and Dennis",05:40.88,2013-02-11,4
+246843,Darrell,Palmer,Madrid,Jarama,Griffin Group,Andrade-Jackson,05:53.06,2013-02-11,5
+245714,Sheila,Cardenas,Madrid,Jarama,Pena LLC,Stewart PLC,06:05.00,2013-02-11,6
+252256,Amber,Coleman,Madrid,Jarama,"Zhang, Brooks and Miles","Frye, Walter and Li",07:43.62,2013-02-11,7
+201542,Anna,Kramer,Madrid,Jarama,"Adams, Quinn and Watson",Brown-Graham,08:29.35,2013-02-11,8
+252736,Christopher,Osborne,Madrid,Jarama,"Morrison, Parsons and Brandt","Estrada, Marsh and Chandler",08:36.17,2013-02-11,9
+243919,Derek,Morgan,Madrid,Jarama,"Barnes, Jackson and Gutierrez",Wood PLC,09:29.78,2013-02-11,10
+297007,Helen,Wallace,Jeddah,Jeddah Corniche Circuit,Bauer PLC,"Sanchez, Wilson and Ramirez",01:21.39,2013-02-12,1
+251885,Kyle,Craig,Jeddah,Jeddah Corniche Circuit,"Fisher, Payne and Thompson","Mason, White and Richards",01:53.70,2013-02-12,2
+239954,Thomas,Moody,Jeddah,Jeddah Corniche Circuit,Ortiz-Hudson,Levy-Smith,02:09.93,2013-02-12,3
+260890,Gary,Lucas,Jeddah,Jeddah Corniche Circuit,Armstrong-Young,Yu-Yates,03:52.12,2013-02-12,4
+282750,Joshua,Glass,Jeddah,Jeddah Corniche Circuit,Gomez and Sons,Flores and Sons,04:12.06,2013-02-12,5
+270467,Eric,Sampson,Jeddah,Jeddah Corniche Circuit,Bowers-Hayes,"Vang, Gonzalez and Moss",04:13.77,2013-02-12,6
+271910,Debra,Massey,Jeddah,Jeddah Corniche Circuit,Wheeler Group,Ruiz-Austin,04:16.06,2013-02-12,7
+299299,Diana,Phelps,Jeddah,Jeddah Corniche Circuit,Payne-Lowe,Cruz-Rodriguez,05:07.93,2013-02-12,8
+282018,David,Farrell,Jeddah,Jeddah Corniche Circuit,"Ellison, Arias and Thompson",Duncan-Williams,08:33.00,2013-02-12,9
+225289,Jacqueline,Kelly,Jeddah,Jeddah Corniche Circuit,"Powers, Clements and Cox",Schmidt-Phillips,09:45.67,2013-02-12,10
+278657,Charles,Berry,Yeongam County,Korean International Circuit,Vargas-Snyder,"Peck, Andersen and Mitchell",01:12.12,2013-02-13,1
+276539,Joseph,Walsh,Yeongam County,Korean International Circuit,Molina Inc,Williams LLC,01:16.81,2013-02-13,2
+221959,James,Gibson,Yeongam County,Korean International Circuit,Levy-May,Miller Group,02:02.01,2013-02-13,3
+274460,Jack,Fox,Yeongam County,Korean International Circuit,"Fitzpatrick, Rivera and Smith","Trujillo, Chang and Williams",02:25.65,2013-02-13,4
+212666,Jose,Scott,Yeongam County,Korean International Circuit,Holden Group,Allen-Smith,03:29.50,2013-02-13,5
+249377,Andrew,Douglas,Yeongam County,Korean International Circuit,Donaldson and Sons,Raymond LLC,05:31.18,2013-02-13,6
+201802,Jade,Tyler,Yeongam County,Korean International Circuit,Ewing-Mendoza,Hebert-Collier,08:37.08,2013-02-13,7
+209435,Richard,Wagner,Yeongam County,Korean International Circuit,"Fry, Myers and Gamble","Brown, Robinson and Taylor",08:51.38,2013-02-13,8
+238513,Tammy,Harrison,Yeongam County,Korean International Circuit,"Sanders, Leblanc and Maldonado",Lee-Johnson,09:32.98,2013-02-13,9
+267435,Nicholas,Burns,Yeongam County,Korean International Circuit,Wright-Davis,Hess PLC,09:35.19,2013-02-13,10
+213284,Jeffrey,Brown,Midrand,Kyalami,Conner-Yu,Wilson-Carlson,02:13.87,2013-02-14,1
+206776,Corey,Ballard,Midrand,Kyalami,Figueroa Inc,"King, Manning and Brady",02:41.00,2013-02-14,2
+287538,Daniel,Allen,Midrand,Kyalami,Higgins-Smith,"Meyer, Dawson and Harper",06:39.06,2013-02-14,3
+283879,Nicole,King,Midrand,Kyalami,Benton Group,Washington Inc,07:51.73,2013-02-14,4
+211174,Travis,Butler,Midrand,Kyalami,Campbell Inc,Brown-Rodriguez,08:31.99,2013-02-14,5
+291083,James,Williams,Midrand,Kyalami,Finley Inc,Carter and Sons,08:48.97,2013-02-14,6
+202747,Cassandra,Hoover,Midrand,Kyalami,Marshall-Peterson,Hampton-Tucker,09:30.16,2013-02-14,7
+274290,Lisa,Schmitt,Midrand,Kyalami,Robertson-Ramirez,"Torres, Burns and Garner",09:38.98,2013-02-14,8
+234620,Mary,Bolton,Midrand,Kyalami,Mills Inc,Hernandez LLC,09:51.35,2013-02-14,9
+257458,Cynthia,Goodman,Midrand,Kyalami,"Powell, Deleon and Warren",Meyer Ltd,09:53.37,2013-02-14,10
+273530,Brent,Henson,Nevada,Las Vegas Street Circuit,Wagner LLC,"Ferguson, Stout and Olson",02:12.58,2013-02-15,1
+296825,Karen,Gillespie,Nevada,Las Vegas Street Circuit,Morse PLC,"Campbell, Tyler and Parker",02:32.71,2013-02-15,2
+278603,Kathryn,Fowler,Nevada,Las Vegas Street Circuit,Mendoza Group,"Jones, Phillips and Arroyo",05:09.76,2013-02-15,3
+274543,Amanda,Villegas,Nevada,Las Vegas Street Circuit,Baxter LLC,Douglas PLC,05:14.92,2013-02-15,4
+216646,Dennis,Strickland,Nevada,Las Vegas Street Circuit,"Burgess, Grant and Watts","Ray, Craig and Park",07:14.73,2013-02-15,5
+252638,Travis,Jones,Nevada,Las Vegas Street Circuit,"Mckinney, Richardson and Chapman",Kemp-Montes,07:56.30,2013-02-15,6
+280038,Keith,Terry,Nevada,Las Vegas Street Circuit,"Khan, Pena and Ruiz",Knight PLC,07:57.05,2013-02-15,7
+244261,Edward,Smith,Nevada,Las Vegas Street Circuit,"Holland, Murphy and Kline",Jones PLC,08:21.69,2013-02-15,8
+295435,Dawn,Ortiz,Nevada,Las Vegas Street Circuit,Williams Group,Abbott-Phelps,09:53.34,2013-02-15,9
+244425,Mariah,Burch,Nevada,Las Vegas Street Circuit,"Smith, Buck and Holland",Hammond-Schwartz,09:55.23,2013-02-15,10
+285305,Matthew,Suarez,Las Vegas,Las Vegas Strip Street Circuit,Miller Ltd,Stewart Group,01:30.43,2013-02-16,1
+294297,Mitchell,Martin,Las Vegas,Las Vegas Strip Street Circuit,"Cohen, Compton and Perez",Gregory-Nixon,01:59.65,2013-02-16,2
+228016,Christopher,Morrison,Las Vegas,Las Vegas Strip Street Circuit,"Robinson, Clark and Klein",Brown and Sons,02:21.56,2013-02-16,3
+215707,Collin,Mccarty,Las Vegas,Las Vegas Strip Street Circuit,Dominguez Ltd,Miller LLC,02:32.28,2013-02-16,4
+266703,Amanda,Smith,Las Vegas,Las Vegas Strip Street Circuit,Williams Inc,"Nelson, Cole and Allen",03:24.19,2013-02-16,5
+289912,Zachary,James,Las Vegas,Las Vegas Strip Street Circuit,Williams LLC,Williams Group,04:41.07,2013-02-16,6
+240774,Michelle,Schmidt,Las Vegas,Las Vegas Strip Street Circuit,Lopez-Curry,Owen-Mendez,05:08.81,2013-02-16,7
+295742,Stephen,Murphy,Las Vegas,Las Vegas Strip Street Circuit,"Harris, Edwards and Oconnell","Vincent, Parsons and Allen",08:05.83,2013-02-16,8
+209662,Melissa,Huang,Las Vegas,Las Vegas Strip Street Circuit,"Robinson, Fox and Smith",Patel-Morales,08:11.68,2013-02-16,9
+245525,Lisa,Rivera,Las Vegas,Las Vegas Strip Street Circuit,"Ochoa, Taylor and Brady",Jones Ltd,09:14.01,2013-02-16,10
+211023,Lisa,Berry,Le Mans,Le Mans,Bowers LLC,"Foster, Henry and Morrison",02:03.34,2013-02-17,1
+261434,Tracy,Maynard,Le Mans,Le Mans,"Wilson, Sweeney and Wong",Larson-Holmes,02:22.81,2013-02-17,2
+247202,Lee,Parker,Le Mans,Le Mans,"Anderson, Jones and Reyes",Miller-Chan,02:38.24,2013-02-17,3
+219508,Stephen,Jackson,Le Mans,Le Mans,Owens-Russell,"Rivera, Hendricks and Flynn",02:51.46,2013-02-17,4
+279605,Marie,Douglas,Le Mans,Le Mans,Bush-Reynolds,Taylor Inc,03:40.56,2013-02-17,5
+283211,Brian,Shah,Le Mans,Le Mans,Branch and Sons,"Price, Gray and Baker",04:42.38,2013-02-17,6
+224538,Kyle,Haney,Le Mans,Le Mans,Chavez PLC,"Goodman, Peterson and Spencer",05:47.61,2013-02-17,7
+283460,Shannon,Li,Le Mans,Le Mans,"Mcpherson, Anderson and Knapp","Whitehead, Lane and Tran",05:51.58,2013-02-17,8
+248555,Sharon,Hoover,Le Mans,Le Mans,"Cook, Wells and Bryant","Valdez, Houston and Black",06:34.97,2013-02-17,9
+265510,Jason,Rosales,Le Mans,Le Mans,"Nguyen, Hill and Douglas",Jones Ltd,08:00.98,2013-02-17,10
+240764,Tina,Bruce,California,Long Beach,Khan LLC,"Roach, Browning and Jordan",01:19.73,2013-02-18,1
+277052,Brian,King,California,Long Beach,Smith and Sons,Kane-Bennett,02:26.81,2013-02-18,2
+292920,Melissa,Rose,California,Long Beach,"Ortiz, Smith and Deleon","Mayer, Fowler and Livingston",02:30.19,2013-02-18,3
+229124,Anthony,Campbell,California,Long Beach,"Jones, Scott and Rodriguez",Carr PLC,02:59.44,2013-02-18,4
+234766,Andrea,Johnson,California,Long Beach,Mann Inc,"Fields, Elliott and Mills",04:01.77,2013-02-18,5
+230535,Eric,Matthews,California,Long Beach,Richardson-Walker,Thompson-Hunter,04:19.20,2013-02-18,6
+296276,Jeremy,Lopez,California,Long Beach,Williams-Campbell,"Martin, Palmer and Griffin",05:40.97,2013-02-18,7
+255609,Adam,Collier,California,Long Beach,Dawson Inc,"Shaffer, Lewis and Davidson",05:43.87,2013-02-18,8
+230306,Sheila,Alvarez,California,Long Beach,Garcia and Sons,"Curry, Perry and Garcia",06:46.22,2013-02-18,9
+238413,Cynthia,Johnson,California,Long Beach,Greer-Pruitt,"Cantrell, Rivera and Thornton",07:59.36,2013-02-18,10
+202200,Kyle,Curtis,Al Daayen,Losail International Circuit,Burns and Sons,Baker-Ross,02:07.31,2013-02-19,1
+236631,Ricky,Nelson,Al Daayen,Losail International Circuit,Best-Townsend,"Payne, Long and Morris",03:11.31,2013-02-19,2
+282844,David,Miller,Al Daayen,Losail International Circuit,Andrews and Sons,George LLC,05:19.47,2013-02-19,3
+266387,Catherine,Henderson,Al Daayen,Losail International Circuit,Miller-Orr,Jackson-Neal,06:37.98,2013-02-19,4
+256044,Samuel,Fuller,Al Daayen,Losail International Circuit,"Powers, Brennan and Sanchez",White-Coleman,06:48.80,2013-02-19,5
+279634,Chris,Cunningham,Al Daayen,Losail International Circuit,Ramirez-Stephenson,Hill-Flores,07:28.27,2013-02-19,6
+252662,Susan,Foley,Al Daayen,Losail International Circuit,Kelly Group,Boyd and Sons,08:53.69,2013-02-19,7
+247280,Alyssa,Taylor,Al Daayen,Losail International Circuit,Thomas-Huffman,Brown-French,08:59.91,2013-02-19,8
+255129,Shawn,Norman,Al Daayen,Losail International Circuit,Velasquez Group,Wolfe-Salazar,09:43.19,2013-02-19,9
+232606,Randall,Villarreal,Al Daayen,Losail International Circuit,"Becker, Lara and Baker",Mills PLC,09:49.22,2013-02-19,10
+205237,Brandy,Jones,Marina Bay,Marina Bay Street Circuit,Gallagher and Sons,Callahan PLC,01:57.56,2013-02-20,1
+263704,Courtney,Wallace,Marina Bay,Marina Bay Street Circuit,Smith PLC,Pearson-King,02:33.05,2013-02-20,2
+269163,Jason,Rivas,Marina Bay,Marina Bay Street Circuit,Rivera Inc,Dillon-Mccarty,04:41.61,2013-02-20,3
+200769,Debra,Hill,Marina Bay,Marina Bay Street Circuit,"Bartlett, Brown and Martinez","Cooper, Gutierrez and Brewer",06:20.82,2013-02-20,4
+286027,Kendra,Rogers,Marina Bay,Marina Bay Street Circuit,Humphrey-Baker,Young-Alexander,06:38.85,2013-02-20,5
+222399,Lisa,Decker,Marina Bay,Marina Bay Street Circuit,Gonzales Inc,Cooper Inc,07:38.25,2013-02-20,6
+242918,Ashley,Miller,Marina Bay,Marina Bay Street Circuit,Holt and Sons,Lopez Group,08:09.19,2013-02-20,7
+205486,Tiffany,Turner,Marina Bay,Marina Bay Street Circuit,Ferrell-Henry,Thomas-Perry,08:39.64,2013-02-20,8
+219190,Steven,Turner,Marina Bay,Marina Bay Street Circuit,Brady LLC,"Aguirre, Franklin and Snyder",09:02.03,2013-02-20,9
+251663,Jennifer,Sanchez,Marina Bay,Marina Bay Street Circuit,Thomas-Jackson,Howard-Taylor,09:27.50,2013-02-20,10
+227532,Teresa,Fleming,Miami,Miami International Autodrome,Russell-Hayes,"Castillo, Graham and Scott",01:56.65,2013-02-21,1
+228251,Justin,Reid,Miami,Miami International Autodrome,Mendez PLC,Lambert-Nelson,03:40.44,2013-02-21,2
+298506,Christopher,Garcia,Miami,Miami International Autodrome,Lopez-Willis,Price-Ali,04:31.92,2013-02-21,3
+211534,Robin,James,Miami,Miami International Autodrome,Lee-Wright,"Barnes, Hernandez and Davis",05:26.00,2013-02-21,4
+267214,Zachary,Berger,Miami,Miami International Autodrome,Morales and Sons,Haynes-Watson,06:08.22,2013-02-21,5
+272991,Richard,Stanley,Miami,Miami International Autodrome,Matthews Inc,White PLC,07:30.01,2013-02-21,6
+293714,Grace,Glenn,Miami,Miami International Autodrome,Castro-Harvey,"Norton, French and Miller",07:44.81,2013-02-21,7
+218071,Julie,Cox,Miami,Miami International Autodrome,"Johnson, Duncan and Black","Curry, Acosta and Elliott",08:58.42,2013-02-21,8
+268497,Rachel,Mack,Miami,Miami International Autodrome,Edwards Group,Ayala-Anderson,09:17.25,2013-02-21,9
+279459,Ronald,Mitchell,Miami,Miami International Autodrome,Maxwell Group,Sullivan and Sons,09:36.04,2013-02-21,10
+298806,Katie,Williams,Lisbon,Monsanto Park Circuit,Cannon Ltd,Lowe Ltd,02:04.67,2013-02-22,1
+245236,Sara,Johnson,Lisbon,Monsanto Park Circuit,Miller Inc,"Burns, Nguyen and Ellis",02:24.31,2013-02-22,2
+256179,Jennifer,Briggs,Lisbon,Monsanto Park Circuit,Crane Group,Warren and Sons,02:34.69,2013-02-22,3
+226736,Wendy,Paul,Lisbon,Monsanto Park Circuit,Lewis Ltd,Booker Inc,02:37.87,2013-02-22,4
+261529,Vanessa,Hughes,Lisbon,Monsanto Park Circuit,"Blackwell, James and Hogan",Houston PLC,03:25.25,2013-02-22,5
+236208,Christopher,Walker,Lisbon,Monsanto Park Circuit,Knox-Powers,Finley-Meyers,04:33.97,2013-02-22,6
+219457,Danielle,Alexander,Lisbon,Monsanto Park Circuit,"Soto, Carlson and Baker",Cortez-Olson,04:56.24,2013-02-22,7
+204499,Dana,Miller,Lisbon,Monsanto Park Circuit,Goodwin-Stokes,"Nguyen, Olson and Freeman",07:16.18,2013-02-22,8
+260160,Kimberly,Hale,Lisbon,Monsanto Park Circuit,"Greene, Gonzalez and Johnson",Lane Ltd,08:27.61,2013-02-22,9
+283285,Stacey,Parsons,Lisbon,Monsanto Park Circuit,Combs PLC,Quinn-Gordon,09:23.29,2013-02-22,10
+224504,Mia,Jacobs,Barcelona,Montjuïc,"Baker, Martin and Singleton",Griffin Inc,01:17.56,2013-02-23,1
+262752,Jason,Jones,Barcelona,Montjuïc,Phillips LLC,"Long, Flores and Reyes",02:37.50,2013-02-23,2
+254384,Melinda,Colon,Barcelona,Montjuïc,"Li, Craig and Drake","Smith, Weeks and Arroyo",03:17.50,2013-02-23,3
+283042,Cheryl,Davidson,Barcelona,Montjuïc,Byrd-Holloway,Jones-Krause,05:36.85,2013-02-23,4
+218589,Sydney,Hickman,Barcelona,Montjuïc,Rios-Padilla,"Peck, Shannon and Mahoney",05:43.17,2013-02-23,5
+295285,Susan,Warren,Barcelona,Montjuïc,Green-Edwards,Robles-Brewer,06:11.31,2013-02-23,6
+239081,Kathy,Ingram,Barcelona,Montjuïc,Wilson Ltd,Harris-Martinez,06:33.13,2013-02-23,7
+243001,Cynthia,Garner,Barcelona,Montjuïc,"Cole, Pierce and Bryan","Velez, Ward and Harrison",08:53.38,2013-02-23,8
+279575,Mario,Cruz,Barcelona,Montjuïc,"Cox, Stark and Rodriguez",Olson LLC,09:03.40,2013-02-23,9
+277371,Cassandra,Williams,Barcelona,Montjuïc,Guerra Ltd,Kirk-Gutierrez,09:10.55,2013-02-23,10
+253006,Gregory,Chapman,Ontario,Mosport International Raceway,Bates-Anderson,Nielsen-Mendoza,02:03.59,2013-02-24,1
+241430,Elizabeth,Bradley,Ontario,Mosport International Raceway,"Palmer, Bennett and Patterson","Wilson, Johnson and Williamson",02:10.87,2013-02-24,2
+216371,Joseph,Dougherty,Ontario,Mosport International Raceway,Perry-Nixon,"Ramos, Gomez and Edwards",02:38.06,2013-02-24,3
+250343,David,Fuller,Ontario,Mosport International Raceway,Marsh-Banks,Cortez-Chen,03:35.00,2013-02-24,4
+256491,Gregory,Johnson,Ontario,Mosport International Raceway,Barber-Fischer,Ali-Turner,05:04.77,2013-02-24,5
+273969,Joshua,Williams,Ontario,Mosport International Raceway,"Lee, Tran and Jones",Williams and Sons,06:02.91,2013-02-24,6
+247295,Steven,Wright,Ontario,Mosport International Raceway,Stevens-Robinson,Sosa-Baker,06:28.18,2013-02-24,7
+277373,Aaron,Gonzalez,Ontario,Mosport International Raceway,"Marks, Miller and Griffin",Maldonado-Mosley,07:25.20,2013-02-24,8
+268840,Sara,Brown,Ontario,Mosport International Raceway,Nichols-Mitchell,Cooper Group,08:17.32,2013-02-24,9
+291747,Nicholas,Holland,Ontario,Mosport International Raceway,"Perez, Hayes and Lloyd",Young Ltd,09:19.62,2013-02-24,10
+285999,Nicholas,Sawyer,Brussels,Nivelles-Baulers,Silva-Smith,Bishop and Sons,03:04.56,2013-02-25,1
+215338,April,Foster,Brussels,Nivelles-Baulers,Haynes-Moss,Moore-Murray,03:27.99,2013-02-25,2
+276552,Michael,Thornton,Brussels,Nivelles-Baulers,"Becker, Wilson and Hester",Keith-Williams,04:37.87,2013-02-25,3
+243484,Joseph,Gallegos,Brussels,Nivelles-Baulers,Lewis Inc,Hernandez-Lopez,04:58.00,2013-02-25,4
+296354,Andrew,Webb,Brussels,Nivelles-Baulers,"Leach, Harris and Herrera",Reyes and Sons,05:36.31,2013-02-25,5
+256573,Mark,Davis,Brussels,Nivelles-Baulers,Lynn-Jones,Graham-Clark,06:06.68,2013-02-25,6
+202049,Jennifer,Logan,Brussels,Nivelles-Baulers,Bailey LLC,"Jordan, Swanson and Franklin",06:15.02,2013-02-25,7
+251005,Gabriel,Blankenship,Brussels,Nivelles-Baulers,Rodriguez Inc,Evans-Cannon,07:08.00,2013-02-25,8
+207114,Mark,Shelton,Brussels,Nivelles-Baulers,Rivera Ltd,Brown-Davidson,09:17.25,2013-02-25,9
+262856,Catherine,Moss,Brussels,Nivelles-Baulers,"Brown, Dunlap and Moore","Carroll, Ramirez and Rodriguez",09:49.84,2013-02-25,10
+244064,Sarah,Hawkins,Nürburg,Nürburgring,"Bell, Campbell and Ryan","Barnett, Bennett and Escobar",02:35.25,2013-02-26,1
+251214,Wendy,Carter,Nürburg,Nürburgring,"Rodgers, Jefferson and Johnson","Sanders, Taylor and Shields",02:35.59,2013-02-26,2
+211130,Jeremy,Rodriguez,Nürburg,Nürburgring,Brooks Ltd,Mann PLC,04:07.81,2013-02-26,3
+292658,Kimberly,Guerra,Nürburg,Nürburgring,Mccall-Prince,"Hall, Vega and Price",04:47.52,2013-02-26,4
+213500,Adam,Ford,Nürburg,Nürburgring,"Thomas, Vaughan and Copeland",Campbell LLC,04:54.81,2013-02-26,5
+205311,Adam,Reyes,Nürburg,Nürburgring,"Ferguson, Shaw and Jackson",King and Sons,05:13.08,2013-02-26,6
+208716,Laura,Smith,Nürburg,Nürburgring,Moore-Ayala,Brown LLC,06:18.75,2013-02-26,7
+256250,Leslie,Clark,Nürburg,Nürburgring,Cook-Oliver,"Martin, Schmidt and Cole",06:34.83,2013-02-26,8
+266040,Sherri,Miller,Nürburg,Nürburgring,Taylor PLC,"Crane, Johnson and Butler",06:53.43,2013-02-26,9
+218047,Kristen,Francis,Nürburg,Nürburgring,Turner-Stout,Welch-Thomas,08:47.37,2013-02-26,10
+208680,Joseph,Thomas,Okayama,Okayama International Circuit,Vargas PLC,Williams and Sons,01:18.10,2013-02-27,1
+248190,Joseph,Pitts,Okayama,Okayama International Circuit,"Mcdonald, Lee and Rodriguez",Lynch Ltd,01:21.23,2013-02-27,2
+276797,Daniel,Wallace,Okayama,Okayama International Circuit,Nicholson-Robertson,Murray-Leonard,01:22.73,2013-02-27,3
+267215,Carrie,Alvarez,Okayama,Okayama International Circuit,"Foster, Garcia and Turner",Stephens-Young,01:49.45,2013-02-27,4
+266842,Emily,Whitney,Okayama,Okayama International Circuit,"Harrison, Franco and Rocha",Gutierrez-White,03:31.18,2013-02-27,5
+236395,Christopher,Berg,Okayama,Okayama International Circuit,"Butler, Adkins and Skinner",Mccormick and Sons,04:34.69,2013-02-27,6
+284478,Colin,Villa,Okayama,Okayama International Circuit,Evans-Jones,Hill-Ward,05:59.93,2013-02-27,7
+247333,Michele,Parrish,Okayama,Okayama International Circuit,Burton-Brooks,"Miller, Gonzalez and Rasmussen",06:58.31,2013-02-27,8
+270031,Emily,Jones,Okayama,Okayama International Circuit,Shaw Inc,Richardson-Gray,07:52.35,2013-02-27,9
+221545,David,Mendez,Okayama,Okayama International Circuit,"Obrien, Taylor and Rivas",Montgomery PLC,08:48.34,2013-02-27,10
+265726,Judy,Barnes,Pescara,Pescara Circuit,Wright Ltd,"Crosby, Armstrong and Herrera",01:14.62,2013-02-28,1
+212183,Andrea,Hill,Pescara,Pescara Circuit,Wilson-Lambert,Deleon LLC,02:22.37,2013-02-28,2
+243286,Katherine,Johnson,Pescara,Pescara Circuit,Hardy-Hansen,Chen Ltd,02:23.09,2013-02-28,3
+216364,Stefanie,Hurley,Pescara,Pescara Circuit,Ruiz-Jacobson,Good PLC,03:04.19,2013-02-28,4
+280738,Amy,Gonzalez,Pescara,Pescara Circuit,Anderson Group,"Johnson, Webb and Porter",04:26.88,2013-02-28,5
+233307,Robert,Green,Pescara,Pescara Circuit,Robertson-Hicks,Jones-Choi,05:05.81,2013-02-28,6
+278953,Megan,Bowen,Pescara,Pescara Circuit,"Harvey, Randall and Hernandez","Vargas, Taylor and Hunt",05:37.55,2013-02-28,7
+290084,Eric,Newton,Pescara,Pescara Circuit,White LLC,Hall and Sons,06:10.22,2013-02-28,8
+200206,Andrea,Strong,Pescara,Pescara Circuit,Miller-Brandt,Vasquez-Galloway,07:06.72,2013-02-28,9
+240262,Donna,Williams,Pescara,Pescara Circuit,Walton LLC,"Mullins, Steele and Russell",07:11.45,2013-02-28,10
+219738,Laura,Lane,Phoenix,Phoenix street circuit,"Stanton, Reid and Terry","Hill, Brown and Scott",01:46.09,2013-03-01,1
+293468,Matthew,Cooper,Phoenix,Phoenix street circuit,Gray Ltd,George Ltd,02:39.96,2013-03-01,2
+293396,Yvonne,Gould,Phoenix,Phoenix street circuit,Vega-Thomas,Mcpherson Ltd,03:04.18,2013-03-01,3
+284654,Amanda,Matthews,Phoenix,Phoenix street circuit,Anderson-Wood,"Gonzalez, Gross and Sims",05:03.29,2013-03-01,4
+209474,Michelle,Smith,Phoenix,Phoenix street circuit,Hudson-Sanchez,"Brown, Wise and Warren",05:34.11,2013-03-01,5
+223714,Taylor,Villegas,Phoenix,Phoenix street circuit,Warner-Phillips,Brown LLC,06:34.05,2013-03-01,6
+282745,Ryan,Collins,Phoenix,Phoenix street circuit,Hull Ltd,Davis-Garcia,07:07.00,2013-03-01,7
+213403,Thomas,Atkins,Phoenix,Phoenix street circuit,Wood LLC,"Clark, Brown and Duncan",08:11.92,2013-03-01,8
+211111,Eric,Johnson,Phoenix,Phoenix street circuit,"Porter, Schultz and Allen",Diaz PLC,08:23.48,2013-03-01,9
+213986,Stephanie,Murray,Phoenix,Phoenix street circuit,Wilcox-Robertson,"Mitchell, Johnson and Greene",09:17.26,2013-03-01,10
+259031,Matthew,Hines,Eastern Cape Province,Prince George Circuit,Trujillo PLC,Hernandez-Bowman,01:31.23,2013-03-02,1
+254693,Michelle,Maxwell,Eastern Cape Province,Prince George Circuit,Brown Ltd,Atkins-Robinson,01:57.76,2013-03-02,2
+248747,Elizabeth,Wilson,Eastern Cape Province,Prince George Circuit,Baker-Wilson,Morgan Group,02:13.91,2013-03-02,3
+280077,Chelsea,Simpson,Eastern Cape Province,Prince George Circuit,Martin-Ewing,Gomez-Parrish,02:55.00,2013-03-02,4
+298018,Natalie,Spence,Eastern Cape Province,Prince George Circuit,Chambers-Parker,Shannon LLC,03:25.38,2013-03-02,5
+243016,Meghan,Mendoza,Eastern Cape Province,Prince George Circuit,"Thompson, Moore and Castro",Foley Inc,05:33.18,2013-03-02,6
+290469,Shawn,Sanders,Eastern Cape Province,Prince George Circuit,"Moore, Daniels and Powell",Baldwin Group,07:10.20,2013-03-02,7
+265318,Tricia,Vasquez,Eastern Cape Province,Prince George Circuit,"Frey, Santos and Johnson","Aguirre, Cohen and Mitchell",09:21.95,2013-03-02,8
+263208,William,Smith,Eastern Cape Province,Prince George Circuit,Taylor-Ayala,Joseph-Brooks,09:30.89,2013-03-02,9
+297379,Christopher,Marks,Eastern Cape Province,Prince George Circuit,Rivera and Sons,Proctor-Taylor,09:44.37,2013-03-02,10
+217019,John,Mejia,Spielberg,Red Bull Ring,Davis LLC,Reeves-Boyd,01:44.70,2013-03-03,1
+226641,Mark,Bradley,Spielberg,Red Bull Ring,Adkins LLC,Lee Group,01:56.21,2013-03-03,2
+287092,Julie,Russell,Spielberg,Red Bull Ring,"Rivera, Campos and Taylor",Brown Group,02:28.37,2013-03-03,3
+289339,Shannon,Hays,Spielberg,Red Bull Ring,West-Wilson,"Silva, Bray and Ford",06:14.37,2013-03-03,4
+250015,Amber,Fields,Spielberg,Red Bull Ring,"Gray, Hall and Murray",Long-Parks,06:16.88,2013-03-03,5
+241555,Christopher,Brooks,Spielberg,Red Bull Ring,Ruiz Ltd,"Barker, Tucker and Mcclure",06:20.18,2013-03-03,6
+238088,Kathleen,Henry,Spielberg,Red Bull Ring,Hancock Group,Davenport-Torres,06:24.00,2013-03-03,7
+230977,Elizabeth,Santiago,Spielberg,Red Bull Ring,Elliott-Hernandez,"Davis, Kennedy and Harmon",07:31.37,2013-03-03,8
+253351,Rebecca,Schmidt,Spielberg,Red Bull Ring,Powers LLC,"Cunningham, Murphy and Wolfe",09:24.55,2013-03-03,9
+272409,Joseph,Costa,Spielberg,Red Bull Ring,Salas-Fitzgerald,"Haney, Dillon and Jackson",09:32.74,2013-03-03,10
+203051,Laurie,Dixon,Reims,Reims-Gueux,"Howard, Townsend and Hayes",Montes LLC,01:05.93,2013-03-04,1
+221447,Andrea,Moreno,Reims,Reims-Gueux,"Robinson, White and Jones","Harding, Kerr and Ward",02:07.59,2013-03-04,2
+270592,Brian,Phillips,Reims,Reims-Gueux,Bryant-Brown,Woods LLC,03:10.93,2013-03-04,3
+252733,Nicholas,Torres,Reims,Reims-Gueux,Sutton-Abbott,Garrett-Black,04:08.38,2013-03-04,4
+234911,Lauren,Mitchell,Reims,Reims-Gueux,"Evans, Hernandez and Cannon",Waters-Smith,04:09.06,2013-03-04,5
+272694,Rebecca,Brown,Reims,Reims-Gueux,"Marsh, Spears and Yang",Smith-Joyce,06:16.56,2013-03-04,6
+217159,Deborah,Pollard,Reims,Reims-Gueux,"Barry, Taylor and Velazquez",Kaufman-Walker,07:20.19,2013-03-04,7
+288092,Scott,Thompson,Reims,Reims-Gueux,Clay Group,Miller PLC,08:01.12,2013-03-04,8
+232635,Catherine,Morgan,Reims,Reims-Gueux,"Shaffer, Garcia and Richardson",Shaw PLC,08:45.36,2013-03-04,9
+298116,Johnny,Escobar,Reims,Reims-Gueux,"Martin, Preston and Moore","Smith, Griffith and Tucker",09:19.16,2013-03-04,10
+209337,Richard,Fitzgerald,California,Riverside International Raceway,"Smith, Caldwell and Griffin",Lara-Roberts,01:34.67,2013-03-05,1
+252992,Chad,Jennings,California,Riverside International Raceway,Andersen Group,Perez and Sons,02:54.18,2013-03-05,2
+242348,Chelsea,Cain,California,Riverside International Raceway,"Davis, Stanley and Wright","Shah, Mcintyre and Villanueva",04:04.61,2013-03-05,3
+296752,Jeanne,Thomas,California,Riverside International Raceway,Bell-Lewis,Newton and Sons,04:40.72,2013-03-05,4
+269479,Noah,Kane,California,Riverside International Raceway,Whitney PLC,"Campbell, Hernandez and Moore",06:18.56,2013-03-05,5
+266412,Patricia,Luna,California,Riverside International Raceway,Foster-Williams,Crawford and Sons,06:24.27,2013-03-05,6
+285616,Rodney,Chavez,California,Riverside International Raceway,"Mueller, Knight and Hodge",Nelson-Dean,07:34.67,2013-03-05,7
+223289,Michael,Bailey,California,Riverside International Raceway,"Larsen, Hernandez and Ward",Arnold-Cole,08:36.05,2013-03-05,8
+251407,Adam,Browning,California,Riverside International Raceway,Cole Group,"Wright, Scott and Evans",09:23.34,2013-03-05,9
+261476,Alejandro,Kim,California,Riverside International Raceway,"Erickson, Armstrong and Lee",Graham-Anthony,09:57.25,2013-03-05,10
+243525,Jessica,Park,Rouen,Rouen-Les-Essarts,Mcneil Group,Hall Inc,02:23.83,2013-03-06,1
+270640,Hunter,Singleton,Rouen,Rouen-Les-Essarts,Rogers LLC,Baldwin-Garcia,02:40.68,2013-03-06,2
+210965,Marie,Andrews,Rouen,Rouen-Les-Essarts,"Burns, Nolan and Griffin",Wright-Davis,05:01.60,2013-03-06,3
+262003,Richard,Taylor,Rouen,Rouen-Les-Essarts,Chung-Stevens,Wright-Espinoza,05:14.64,2013-03-06,4
+210975,Sierra,Hines,Rouen,Rouen-Les-Essarts,"Turner, Tyler and Pierce",Rhodes-Rosario,05:20.01,2013-03-06,5
+219065,Alexandra,Payne,Rouen,Rouen-Les-Essarts,Carr-Huffman,Clarke Ltd,06:42.36,2013-03-06,6
+223049,Karen,Cummings,Rouen,Rouen-Les-Essarts,Wheeler-Austin,Roberts Ltd,07:16.61,2013-03-06,7
+223483,Joseph,Alvarado,Rouen,Rouen-Les-Essarts,"Morales, Williams and Williams","Hudson, Bennett and Gray",07:47.76,2013-03-06,8
+280135,Melinda,Cook,Rouen,Rouen-Les-Essarts,Moore and Sons,"Stewart, Herrera and Clark",08:28.06,2013-03-06,9
+229855,Joseph,Ellis,Rouen,Rouen-Les-Essarts,"Chavez, Jones and Williams",Smith-Johnson,09:31.52,2013-03-06,10
+246732,Victoria,Quinn,Anderstorp,Scandinavian Raceway,Nelson-Cruz,Hughes and Sons,01:03.45,2013-03-07,1
+235222,Alyssa,Bruce,Anderstorp,Scandinavian Raceway,Gill Ltd,Carrillo-Todd,03:16.31,2013-03-07,2
+295839,Tanya,Walker,Anderstorp,Scandinavian Raceway,"Arnold, Smith and Moreno",Smith-Mills,03:54.06,2013-03-07,3
+290735,Angela,Gordon,Anderstorp,Scandinavian Raceway,"Hernandez, Cuevas and Webb",Sandoval-Ferguson,04:06.68,2013-03-07,4
+208792,Craig,Rowe,Anderstorp,Scandinavian Raceway,Williams-Williams,Brown LLC,05:58.02,2013-03-07,5
+219087,Mathew,Reyes,Anderstorp,Scandinavian Raceway,Lopez and Sons,Mccullough-Taylor,06:38.16,2013-03-07,6
+235735,John,Taylor,Anderstorp,Scandinavian Raceway,Coleman-Bennett,Price-Ferrell,06:50.81,2013-03-07,7
+294758,Brent,Mccormick,Anderstorp,Scandinavian Raceway,Kramer-Lane,Rodriguez-Campbell,07:21.00,2013-03-07,8
+273744,Tara,Day,Anderstorp,Scandinavian Raceway,Williams Ltd,Acosta LLC,07:58.77,2013-03-07,9
+270313,Ronald,Sanchez,Anderstorp,Scandinavian Raceway,Jones-Bradley,"Choi, Collier and Lee",09:13.72,2013-03-07,10
+241975,Denise,Myers,Florida,Sebring International Raceway,Little Inc,Joseph LLC,01:19.98,2013-03-08,1
+294209,Angela,Bautista,Florida,Sebring International Raceway,"Alvarez, Williams and Jones",Compton LLC,01:35.90,2013-03-08,2
+291792,Jared,Ellis,Florida,Sebring International Raceway,"Brown, Schneider and Moore",Schmidt-Mendoza,01:55.35,2013-03-08,3
+266235,Amanda,Reese,Florida,Sebring International Raceway,Goodwin PLC,Patterson Inc,07:26.62,2013-03-08,4
+220150,Jennifer,Hayes,Florida,Sebring International Raceway,"Evans, Jackson and Sandoval",Martinez-Nichols,07:49.44,2013-03-08,5
+284665,Diane,Hoffman,Florida,Sebring International Raceway,Cruz PLC,Thomas LLC,08:10.68,2013-03-08,6
+206910,David,Obrien,Florida,Sebring International Raceway,"Stuart, Brooks and Vance",Austin-Duran,09:00.87,2013-03-08,7
+266557,Angela,Fox,Florida,Sebring International Raceway,"Patton, Parsons and Lane",Mendoza-Garza,09:08.25,2013-03-08,8
+232093,William,Young,Florida,Sebring International Raceway,"Adkins, Wright and Murray",Brooks Inc,09:13.77,2013-03-08,9
+206295,Jose,Franklin,Florida,Sebring International Raceway,Ray PLC,"Warner, Weiss and Davis",09:18.14,2013-03-08,10
+272369,Lori,White,Kuala Lumpur,Sepang International Circuit,Thompson-Joyce,Berry Ltd,03:05.80,2013-03-09,1
+225342,Brooke,Stephens,Kuala Lumpur,Sepang International Circuit,Marquez Inc,"Pineda, Meyer and King",04:57.12,2013-03-09,2
+290852,Luis,Lin,Kuala Lumpur,Sepang International Circuit,Andrade-Mendoza,"Castro, Garcia and Daniels",05:17.06,2013-03-09,3
+221357,Michelle,Lewis,Kuala Lumpur,Sepang International Circuit,Lee Group,Foster-Duncan,05:40.17,2013-03-09,4
+240397,Joseph,Higgins,Kuala Lumpur,Sepang International Circuit,Bush-Vaughn,"Gordon, Wilson and Olson",06:42.04,2013-03-09,5
+215485,Kristin,Martinez,Kuala Lumpur,Sepang International Circuit,Wilson-Malone,"Cox, Williams and Reyes",07:49.45,2013-03-09,6
+263932,Mark,Horton,Kuala Lumpur,Sepang International Circuit,"Brown, Hayes and Clark","Hernandez, Riley and Buckley",08:17.13,2013-03-09,7
+200860,Angel,Allen,Kuala Lumpur,Sepang International Circuit,"Daniels, Vance and York","Wilson, Smith and Cortez",08:24.17,2013-03-09,8
+211093,David,Ramos,Kuala Lumpur,Sepang International Circuit,Hunter-Fuller,Holt-Meadows,08:28.31,2013-03-09,9
+255820,Jeffrey,Parker,Kuala Lumpur,Sepang International Circuit,"Holder, Young and Hendricks",Krause Ltd,09:52.72,2013-03-09,10
+239099,Robert,Berger,Shanghai,Shanghai International Circuit,Santos-Avila,"Sanders, Harris and Arnold",01:22.06,2013-03-10,1
+248925,Selena,Summers,Shanghai,Shanghai International Circuit,"Calderon, Williams and Bennett","Ryan, Krause and Mitchell",02:00.50,2013-03-10,2
+239298,David,Short,Shanghai,Shanghai International Circuit,"Andrade, Gordon and Cruz",Mullen-Jones,02:59.21,2013-03-10,3
+299522,Angel,Davis,Shanghai,Shanghai International Circuit,"Norris, Callahan and Bishop",Singh and Sons,03:01.28,2013-03-10,4
+291906,Randy,Cunningham,Shanghai,Shanghai International Circuit,Ward and Sons,"Phillips, Terry and Lopez",04:00.84,2013-03-10,5
+250993,Jason,Taylor,Shanghai,Shanghai International Circuit,Nelson-Brown,Ortiz-Miller,04:04.58,2013-03-10,6
+286900,Justin,Barnes,Shanghai,Shanghai International Circuit,Perez Ltd,"Williams, Garcia and Boone",05:19.51,2013-03-10,7
+245543,Melissa,Wyatt,Shanghai,Shanghai International Circuit,Thompson PLC,"Stark, Rivera and Valencia",07:33.22,2013-03-10,8
+262955,Jeffrey,Baird,Shanghai,Shanghai International Circuit,Donovan-Perez,Lee-White,09:43.75,2013-03-10,9
+203373,Caroline,Anderson,Shanghai,Shanghai International Circuit,Powell-Montgomery,May Inc,09:51.40,2013-03-10,10
+244131,Robert,Murray,Silverstone,Silverstone Circuit,Parker Ltd,Taylor Group,01:24.42,2013-03-11,1
+245017,Amy,Tucker,Silverstone,Silverstone Circuit,"Ashley, Allen and Sanchez",White Ltd,01:46.17,2013-03-11,2
+264044,Jeremy,Thompson,Silverstone,Silverstone Circuit,"Flores, Butler and Hernandez",King-Garrison,02:40.75,2013-03-11,3
+238467,Richard,Simmons,Silverstone,Silverstone Circuit,Dunn-Wilson,Jensen-Branch,04:00.09,2013-03-11,4
+230355,Rebekah,Crawford,Silverstone,Silverstone Circuit,"Morgan, Sherman and Williams",Flores LLC,05:00.79,2013-03-11,5
+274740,Rick,Brown,Silverstone,Silverstone Circuit,Nelson-Johnson,"Soto, Vaughn and Griffin",06:21.33,2013-03-11,6
+224300,Jeffrey,Bright,Silverstone,Silverstone Circuit,"Scott, Mendoza and Harris",Kent Inc,06:46.06,2013-03-11,7
+282637,Amanda,Conley,Silverstone,Silverstone Circuit,"Lee, Rhodes and Sims",Wilson PLC,07:30.64,2013-03-11,8
+297856,Randy,Richard,Silverstone,Silverstone Circuit,Arnold-Gates,Hopkins LLC,08:11.33,2013-03-11,9
+280623,Christine,Gibson,Silverstone,Silverstone Circuit,Johnson LLC,Wright Group,09:05.76,2013-03-11,10
+294704,Anne,Calderon,Sochi,Sochi Autodrom,"Contreras, Miller and Cooper","Miller, Schultz and Yates",01:35.29,2013-03-12,1
+271211,Jason,Morgan,Sochi,Sochi Autodrom,Thornton PLC,Burke-Norton,02:19.41,2013-03-12,2
+250859,Brian,Lynn,Sochi,Sochi Autodrom,"Ramsey, Mason and Mccann",Daniels and Sons,02:28.69,2013-03-12,3
+278752,James,Martinez,Sochi,Sochi Autodrom,Harris Ltd,"Singh, Walker and Moody",03:37.50,2013-03-12,4
+219870,Brittney,Daniels,Sochi,Sochi Autodrom,Mcgee-Smith,Sawyer Group,04:06.78,2013-03-12,5
+246959,Jeffrey,Johnson,Sochi,Sochi Autodrom,"Carpenter, Oliver and Kennedy",Moss-Taylor,06:13.25,2013-03-12,6
+283613,Dana,Snyder,Sochi,Sochi Autodrom,Williams Group,Collins Inc,06:25.69,2013-03-12,7
+254268,Jessica,Oliver,Sochi,Sochi Autodrom,Hill Ltd,Bryant Inc,07:42.54,2013-03-12,8
+234584,Lee,Miller,Sochi,Sochi Autodrom,"Brown, Hurst and Blevins",Wilkerson-Ayala,08:11.94,2013-03-12,9
+261267,Amy,Chavez,Sochi,Sochi Autodrom,Allen Inc,Williams Ltd,09:19.80,2013-03-12,10
+248984,Tasha,Thomas,Suzuka,Suzuka Circuit,Osborn Group,"Avery, Garcia and Romero",02:05.14,2013-03-13,1
+293008,Ross,Lamb,Suzuka,Suzuka Circuit,Ramirez-Vasquez,Roberts Group,03:08.93,2013-03-13,2
+275766,James,Wilson,Suzuka,Suzuka Circuit,Burgess Group,Welch-Duncan,03:19.27,2013-03-13,3
+253707,Helen,Romero,Suzuka,Suzuka Circuit,"Morgan, Bradshaw and Williams","Rios, Garcia and Harvey",03:27.63,2013-03-13,4
+240818,Michelle,Hoffman,Suzuka,Suzuka Circuit,"Adams, Hodge and Duke","Williamson, Brown and Pena",04:46.22,2013-03-13,5
+260566,Alexis,Carlson,Suzuka,Suzuka Circuit,"Vang, Stanley and Valdez",Schwartz-Harris,06:05.50,2013-03-13,6
+287545,Christopher,Thompson,Suzuka,Suzuka Circuit,Williams Inc,"Lane, Morrison and Rivera",06:37.04,2013-03-13,7
+229375,Karen,Conner,Suzuka,Suzuka Circuit,Davis and Sons,"Robles, Nguyen and Banks",08:22.31,2013-03-13,8
+234754,Charles,Kane,Suzuka,Suzuka Circuit,"Mccann, Taylor and Flores","Hunter, Gross and Andrade",09:02.70,2013-03-13,9
+299835,Troy,Parker,Suzuka,Suzuka Circuit,"Valencia, Joseph and Walls",Rojas-Smith,09:33.47,2013-03-13,10
+278069,Russell,Foster,Valencia,Valencia Street Circuit,"Yang, Wilson and Zimmerman",Roach and Sons,02:37.97,2013-03-14,1
+232307,Javier,Rose,Valencia,Valencia Street Circuit,"Torres, Brown and Williams","Gardner, Morris and Oconnell",02:58.90,2013-03-14,2
+213116,Gabriel,Stone,Valencia,Valencia Street Circuit,"Taylor, Porter and Moreno",Harrison PLC,04:50.13,2013-03-14,3
+216896,Jamie,Hayes,Valencia,Valencia Street Circuit,"Howard, Silva and Hall",Bradley-Davis,06:22.30,2013-03-14,4
+282986,Hannah,Conley,Valencia,Valencia Street Circuit,Hernandez PLC,Cooper Inc,07:54.27,2013-03-14,5
+241090,William,Jimenez,Valencia,Valencia Street Circuit,Owens-Holmes,"Thomas, Williams and Armstrong",08:17.69,2013-03-14,6
+202693,Chad,Mata,Valencia,Valencia Street Circuit,"Thomas, Ford and Brown",Combs-Davis,09:04.25,2013-03-14,7
+209268,Christopher,Garcia,Valencia,Valencia Street Circuit,Sanchez Ltd,Lane Inc,09:04.26,2013-03-14,8
+293384,Alexandra,Harper,Valencia,Valencia Street Circuit,Hardy PLC,"Moody, Martinez and Hall",09:09.49,2013-03-14,9
+286831,Sarah,Hernandez,Valencia,Valencia Street Circuit,"Alexander, Robinson and Coleman",Todd Inc,09:16.72,2013-03-14,10
+231024,Daniel,Richard,New York State,Watkins Glen,"Miller, Davis and Anderson",Peterson-Ramsey,01:09.93,2013-03-15,1
+289135,Kimberly,Wright,New York State,Watkins Glen,Todd-Pham,"Wright, Ramos and Bennett",01:19.81,2013-03-15,2
+235247,Steven,Harper,New York State,Watkins Glen,Bell-Bennett,Smith PLC,01:21.29,2013-03-15,3
+256835,Darrell,Austin,New York State,Watkins Glen,Watson Ltd,"Fry, Wilson and Stewart",01:35.48,2013-03-15,4
+296601,Daniel,Rodriguez,New York State,Watkins Glen,Barton-Chapman,Pierce PLC,03:15.96,2013-03-15,5
+221677,Kevin,Cooper,New York State,Watkins Glen,White-Morales,Reilly Group,05:34.02,2013-03-15,6
+268866,Michael,Diaz,New York State,Watkins Glen,Cole-Lucero,Morgan-Rodriguez,07:50.94,2013-03-15,7
+210627,Jesse,Hall,New York State,Watkins Glen,Luna-Gallagher,Williams-Juarez,08:40.17,2013-03-15,8
+218888,Nicole,Solis,New York State,Watkins Glen,Marquez-Fletcher,Ramirez Inc,09:29.08,2013-03-15,9
+261087,Mary,Herman,New York State,Watkins Glen,"Durham, Hopkins and Smith",Diaz-Green,09:54.58,2013-03-15,10
+211411,Yolanda,Hernandez,Abu Dhabi,Yas Marina Circuit,Carter-Neal,"Brown, Coffey and Fuentes",02:21.90,2013-03-16,1
+202568,Alexander,Knight,Abu Dhabi,Yas Marina Circuit,Mcdowell-Smith,"Mann, Martin and Oconnell",02:51.41,2013-03-16,2
+225351,William,Kim,Abu Dhabi,Yas Marina Circuit,Mccann-Ramos,"Blanchard, Davis and Schmidt",04:11.50,2013-03-16,3
+219830,Joseph,Martinez,Abu Dhabi,Yas Marina Circuit,Sellers-Riddle,Alvarado-Durham,04:15.68,2013-03-16,4
+223960,Bill,Simmons,Abu Dhabi,Yas Marina Circuit,"Reed, Chambers and Zavala","Newman, Jenkins and Cooper",04:53.45,2013-03-16,5
+270316,Cynthia,Padilla,Abu Dhabi,Yas Marina Circuit,Mora-White,Martin LLC,05:58.11,2013-03-16,6
+221976,Ryan,Taylor,Abu Dhabi,Yas Marina Circuit,Sanders and Sons,Edwards Ltd,07:01.06,2013-03-16,7
+216964,Stephanie,Cole,Abu Dhabi,Yas Marina Circuit,"Harris, Anderson and Love",Allen-Sanchez,07:15.13,2013-03-16,8
+228693,Eric,Shields,Abu Dhabi,Yas Marina Circuit,"Baker, Clark and Armstrong",Jensen-Torres,08:46.95,2013-03-16,9
+227192,Joshua,Robertson,Abu Dhabi,Yas Marina Circuit,Wallace-Martinez,Bishop Inc,08:54.46,2013-03-16,10
+235920,George,Johnson,Styria,Zeltweg,"Kirby, Wheeler and Romero",Sparks-Eaton,02:13.63,2013-03-17,1
+233828,Paul,Kane,Styria,Zeltweg,May Ltd,Henry-Taylor,04:21.58,2013-03-17,2
+208110,Stacey,Barrett,Styria,Zeltweg,Foster Inc,Valentine Ltd,04:23.73,2013-03-17,3
+223959,Leonard,Banks,Styria,Zeltweg,Walker-Lewis,Hughes-Smith,04:52.37,2013-03-17,4
+207400,Christopher,Morales,Styria,Zeltweg,Hall-Sullivan,"Short, Ellison and Dixon",06:30.18,2013-03-17,5
+226962,Veronica,Marshall,Styria,Zeltweg,Smith-Oneill,Hood-Ramirez,07:50.95,2013-03-17,6
+289474,Joseph,Davis,Styria,Zeltweg,Gray-Tran,"Patel, Adams and Lopez",08:28.52,2013-03-17,7
+287142,Vanessa,Hicks,Styria,Zeltweg,Aguirre LLC,"Ferguson, Martin and Obrien",09:06.00,2013-03-17,8
+268385,Andrew,Cook,Styria,Zeltweg,Terry-Bowen,May Group,09:29.89,2013-03-17,9
+288726,Nicole,Nelson,Styria,Zeltweg,Guerrero-Becker,Ortega LLC,09:43.32,2013-03-17,10
+223625,Richard,Harrison,Heusden-Zolder,Zolder,Williams-Li,Burgess LLC,02:09.59,2013-03-18,1
+249726,Troy,Nguyen,Heusden-Zolder,Zolder,Blake Group,Johnson Ltd,02:15.25,2013-03-18,2
+221918,Lisa,Harmon,Heusden-Zolder,Zolder,"Ortega, Jackson and Salazar","Davis, Hardy and Schmidt",03:03.80,2013-03-18,3
+269092,Barbara,Daniels,Heusden-Zolder,Zolder,"Owens, Koch and Jimenez","Vincent, Anderson and Mason",04:13.40,2013-03-18,4
+252251,Kenneth,Moore,Heusden-Zolder,Zolder,"Young, Contreras and Marshall","Herman, Bailey and Richmond",04:20.05,2013-03-18,5
+298098,Sandra,Bentley,Heusden-Zolder,Zolder,Landry Ltd,Mcdonald-Pitts,05:19.81,2013-03-18,6
+295981,Anthony,Mills,Heusden-Zolder,Zolder,Fields Inc,Hudson-Gentry,08:38.57,2013-03-18,7
+205600,Joshua,Farmer,Heusden-Zolder,Zolder,Smith-Noble,Browning-Murphy,09:04.95,2013-03-18,8
+233496,Ryan,Murray,Heusden-Zolder,Zolder,Johnson-Williams,Douglas-Yoder,09:30.15,2013-03-18,9
+271726,Sabrina,Thomas,Heusden-Zolder,Zolder,Butler-French,Sullivan Group,09:42.82,2013-03-18,10
